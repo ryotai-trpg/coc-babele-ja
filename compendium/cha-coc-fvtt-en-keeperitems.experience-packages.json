@@ -1,0 +1,27 @@
+{
+  "label": "経験パッケージ | JA, EN",
+  "folders": {},
+  "entries": {
+    "Medical": {
+      "name": "医療従事者"
+    },
+    "Mythos (Believer)": {
+      "name": "クトゥルフ神話 (信じる人)"
+    },
+    "Mythos (Non Believer)": {
+      "name": "クトゥルフ神話 (信じない人)"
+    },
+    "Organized Crime": {
+      "name": "犯罪組織"
+    },
+    "Police": {
+      "name": "警察"
+    },
+    "War (Offcer)": {
+      "name": "戦争 (士官)"
+    },
+    "War (Soldier)": {
+      "name": "戦争 (一般兵士)"
+    }
+  }
+}

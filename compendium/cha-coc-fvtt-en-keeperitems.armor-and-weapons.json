@@ -1,0 +1,377 @@
+{
+  "label": "装甲と武器 | JA, EN",
+  "folders": {
+    "Alien, Artifacts": "異界のアーティファクト",
+    "Armor": "装甲",
+    "Assault Rifles": "アサルト・ライフル",
+    "Explosives, Heavy Weapons, Misc.": "爆発物、重火器、その他",
+    "Hand-to-Hand Weapons": "近接戦武器",
+    "Handguns": "拳銃",
+    "Machine Guns": "マシンガン",
+    "Rifles": "ライフル",
+    "Shotguns": "ショットガン",
+    "Submachine Guns": "サブマシンガン"
+  },
+  "entries": {
+    ".22 Bolt-Action Rifle": {
+      "name": "22口径ボルト・アクション・ライフル"
+    },
+    ".22 Short Automatic": {
+      "name": "22口径ショート・オートマチック"
+    },
+    ".25 Derringer (1B)": {
+      "name": "25口径デリンジャー (単銃身)"
+    },
+    ".30 Browning M1917A1": {
+      "name": "30口径ブローニングM1917A1"
+    },
+    ".30 Lever-Action Carbine": {
+      "name": "30口径レバー・アクション・カービン"
+    },
+    ".30-06 Bolt-Action Rifle": {
+      "name": "30-06口径ボルト・アクション・ライフル"
+    },
+    ".30-06 Semi-Automatic Rifle": {
+      "name": "30-06口径セミオートマチック・ライフル"
+    },
+    ".303 Lee-Enfield": {
+      "name": "303口径リー＝エンフィールド"
+    },
+    ".32 or 7.65mm Automatic": {
+      "name": "32口径 (7.65mm) オートマチック"
+    },
+    ".32 or 7.65mm Revolver": {
+      "name": "32口径 (7.65mm) リボルバー"
+    },
+    ".357 Magnum Revolver": {
+      "name": "357口径マグナム・リボルバー"
+    },
+    ".38 Automatic": {
+      "name": "38口径オートマチック"
+    },
+    ".38 or 9mm Revolver": {
+      "name": "38口径 (9mm) リボルバー"
+    },
+    ".41 Revolver": {
+      "name": "41口径リボルバー"
+    },
+    ".44 Magnum Revolver": {
+      "name": "44口径マグナム・リボルバー"
+    },
+    ".444 Marlin Rifle": {
+      "name": "444口径マーリン・ライフル"
+    },
+    ".45 Automatic": {
+      "name": "45口径オートマチック"
+    },
+    ".45 Martini-Henry Rifle": {
+      "name": "45口径マーティニ＝ヘンリー・ライフル"
+    },
+    ".45 Revolver": {
+      "name": "45口径リボルバー"
+    },
+    ".58 Springfield Rifle Musket": {
+      "name": "58口径スプリングフィールド・ライフルマスケット"
+    },
+    "10-gauge Shotgun (2B)": {
+      "name": "10ゲージ・ショットガン (二連式)"
+    },
+    "12-gauge Benelli M3 (folding stock)": {
+      "name": "12ゲージ・ベリーニ (折り畳み式銃床)"
+    },
+    "12-gauge SPAS (folding stock)": {
+      "name": "12ゲージSPAS (折り畳み式銃床)"
+    },
+    "12-gauge Shotgun (2B sawed off)": {
+      "name": "12ゲージ・ショットガン (二連式、切り落とし)"
+    },
+    "12-gauge Shotgun (2B)": {
+      "name": "12ゲージ・ショットガン (二連式)"
+    },
+    "12-gauge Shotgun (Pump)": {
+      "name": "12ゲージ・ショットガン (ポンプ)"
+    },
+    "12-gauge Shotgun (semi-auto)": {
+      "name": "12ゲージ・ショットガン (セミオート)"
+    },
+    "120mm Tank Gun (stabilized)": {
+      "name": "120mm戦車砲"
+    },
+    "16-gauge Shotgun (2B)": {
+      "name": "16ゲージ・ショットガン (二連式)"
+    },
+    "20-gauge Shotgun (2B)": {
+      "name": "20ゲージ・ショットガン (二連式)"
+    },
+    "75mm Field Gun": {
+      "name": "75mm野砲"
+    },
+    "81mm Mortar": {
+      "name": "81mm迫撃砲"
+    },
+    "AK-47 or AKM": {
+      "name": "AK-47あるいはAKM"
+    },
+    "AK-74": {
+      "name": "AK-74"
+    },
+    "Anti-Personnel Mine": {
+      "name": "対人地雷"
+    },
+    "Barrett Model 82": {
+      "name": "バレット・モデル82"
+    },
+    "Beretta M70/90": {
+      "name": "ベレッタM70/90"
+    },
+    "Beretta M9": {
+      "name": "ベレッタM9"
+    },
+    "Bergmann MP181/MP2811 (20 mag)": {
+      "name": "ベルクマンMP181/MP2811 (20)"
+    },
+    "Bergmann MP181/MP2811 (30 mag)": {
+      "name": "ベルクマンMP181/MP2811 (30)"
+    },
+    "Bergmann MP181/MP2811 (32 mag)": {
+      "name": "ベルクマンMP181/MP2811 (32)"
+    },
+    "Blackjack (Cosh, life-preserver)": {
+      "name": "ブラックジャック (護身棒)"
+    },
+    "Blasting Cap": {
+      "name": "信管"
+    },
+    "Bow and Arrows": {
+      "name": "弓と矢"
+    },
+    "Brass Knuckles": {
+      "name": "ブラスナックル"
+    },
+    "Bren Gun (100 mag)": {
+      "name": "ブラン軽機関銃 (100)"
+    },
+    "Bren Gun (30 mag)": {
+      "name": "ブラン軽機関銃 (30)"
+    },
+    "Browning Auto Rifle M1918": {
+      "name": "ブローニング・オートライフルM1918"
+    },
+    "Bullwhip": {
+      "name": "むち"
+    },
+    "Burning Torch": {
+      "name": "燃えているたいまつ"
+    },
+    "Chainsaw": {
+      "name": "チェーンソー"
+    },
+    "Claymore Mine": {
+      "name": "クレイモア地雷"
+    },
+    "Club, large (baseball, cricket bat, poker)": {
+      "name": "大きい棍棒 (野球/クリケットのバット、火かき棒)"
+    },
+    "Club, small (nightstick)": {
+      "name": "小さい棍棒 (警棒)"
+    },
+    "Col. Moran's Air Rifle": {
+      "name": "モラン大佐のエアライフル"
+    },
+    "Crossbow": {
+      "name": "クロスボウ"
+    },
+    "Dynamite Stick": {
+      "name": "ダイナマイト"
+    },
+    "Electric Gun": {
+      "name": "電気銃"
+    },
+    "Elephant Gun (2B)": {
+      "name": "エレファント・ガン (二連式)"
+    },
+    "FN FAL Light Automatic": {
+      "name": "FN FAL"
+    },
+    "FN Minimi, 5.56mm (200 mag)": {
+      "name": "FNミニミ (5.56mm) (200)"
+    },
+    "FN Minimi, 5.56mm (30 mag)": {
+      "name": "FNミニミ (5.56mm) (30)"
+    },
+    "Flamethrower": {
+      "name": "火炎放射器"
+    },
+    "Flintlock": {
+      "name": "フリントロック式拳銃"
+    },
+    "Galil Assault Rifle": {
+      "name": "ガリルAR"
+    },
+    "Garand M1, M2 Rifle": {
+      "name": "ガーランドM1、M2ライフル"
+    },
+    "Garrote": {
+      "name": "絞殺ひも"
+    },
+    "Glock 17 9mm Auto": {
+      "name": "グロック17 9mmオートマチック"
+    },
+    "Hand Grenade": {
+      "name": "手榴弾"
+    },
+    "Hatchet/Sickle": {
+      "name": "手斧／小鎌"
+    },
+    "Heavy Kevlar Vest": {
+      "name": "厚いケブラー製のベスト"
+    },
+    "Heavy Leather Jacket": {
+      "name": "厚い革のジャケット"
+    },
+    "Heckler & Koch MP5 (15 mag)": {
+      "name": "ヘッケラー&コックMP5 (15)"
+    },
+    "Heckler & Koch MP5 (30 mag)": {
+      "name": "ヘッケラー&コックMP5 (30)"
+    },
+    "IMI Desert Eagle": {
+      "name": "IMI デザート・イーグル"
+    },
+    "Ingram MAC-11": {
+      "name": "イングラムMAC11"
+    },
+    "Knife, Large (machete, etc.)": {
+      "name": "大型ナイフ (マチェットなど)"
+    },
+    "Knife, Medium (carving knife, etc.)": {
+      "name": "中型ナイフ (肉切りナイフなど)"
+    },
+    "Knife, Small (switchblade, etc.)": {
+      "name": "小型ナイフ (飛び出しナイフなど)"
+    },
+    "Light Antitank Weapon": {
+      "name": "LAW"
+    },
+    "Lightning Gun": {
+      "name": "電撃銃"
+    },
+    "Live Wire, 220-volt charge": {
+      "name": "電気の通じた導線、220ボルト"
+    },
+    "M16A2": {
+      "name": "M16A2"
+    },
+    "M4": {
+      "name": "M4カービン"
+    },
+    "M79 Grenade Launcher": {
+      "name": "M79グレネード・ランチャー"
+    },
+    "Mace Spray*": {
+      "name": "催涙スプレー"
+    },
+    "Mark I Lewis Gun (47 mag)": {
+      "name": "ルイス機関銃 (47)"
+    },
+    "Mark I Lewis Gun (97 mag)": {
+      "name": "ルイス機関銃 (97)"
+    },
+    "Military Body Armor": {
+      "name": "軍用ボディ・アーマー"
+    },
+    "Minigun": {
+      "name": "ミニガン"
+    },
+    "Mist Projector": {
+      "name": "噴霧器"
+    },
+    "Model 1882 Gatling Gun": {
+      "name": "1882型ガトリングガン"
+    },
+    "Model P08 Luger": {
+      "name": "ルガーP08"
+    },
+    "Molotov Cocktail": {
+      "name": "モルトフ・カクテル (火炎瓶)"
+    },
+    "Nunchaku": {
+      "name": "ヌンチャク"
+    },
+    "Pipe Bomb": {
+      "name": "パイプ爆弾"
+    },
+    "Plastique (C-4), 4 oz": {
+      "name": "プラスチック爆弾 (C-4) 4オンス"
+    },
+    "Present U.S. Helmet": {
+      "name": "現代アメリカ軍のヘルメット"
+    },
+    "Rock, Thrown": {
+      "name": "投石"
+    },
+    "SKS Carbine": {
+      "name": "SKS カービン"
+    },
+    "Ship-mounted 5-inch rifle, stabilized": {
+      "name": "艦船搭載の5インチ砲"
+    },
+    "Shuriken": {
+      "name": "手裏剣"
+    },
+    "Signal Handgun (Flare gun)": {
+      "name": "信号拳銃 (フレア・ガン)"
+    },
+    "Skorpion SMG": {
+      "name": "スコルピオンSMG"
+    },
+    "Spear (cavalry lance)": {
+      "name": "騎兵槍"
+    },
+    "Spear, Thrown": {
+      "name": "投げ槍"
+    },
+    "Steyr AUG": {
+      "name": "シュタイヤーAUG"
+    },
+    "Sword, heavy (cavalry saber)": {
+      "name": "重い刀剣 (騎兵用サーベル)"
+    },
+    "Sword, light (sharpened fencing foil, sword cane)": {
+      "name": "軽い刀剣 (フェンシング・フォイル、仕込み杖)"
+    },
+    "Sword, medium (rapier, heavy epee)": {
+      "name": "中型の刀剣 (レイピア、重いエペー)"
+    },
+    "Taser (contact)": {
+      "name": "スタンガン (接触型)"
+    },
+    "Taser (dart)": {
+      "name": "スタンガン (射出型)"
+    },
+    "Thompson (20 mag)": {
+      "name": "トンプソン (20)"
+    },
+    "Thompson (30 mag)": {
+      "name": "トンプソン (30)"
+    },
+    "Thompson (50 mag)": {
+      "name": "トンプソン (50)"
+    },
+    "Uzi SMG": {
+      "name": "ウージーSMG"
+    },
+    "Vickers .303 Machine Gun": {
+      "name": "ヴッカース30口径マシンガン"
+    },
+    "WWI Helmet": {
+      "name": "第1次大戦型のヘルメット"
+    },
+    "War Boomerang": {
+      "name": "戦闘用ブーメラン"
+    },
+    "Wood Axe": {
+      "name": "木斧"
+    }
+  }
+}

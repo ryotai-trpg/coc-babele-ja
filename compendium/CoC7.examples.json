@@ -1,0 +1,255 @@
+{
+  "label": "Examples",
+  "folders": {},
+  "entries": {
+    "1920 Character": {
+      "name": "1920 Character",
+      "tokenName": "1920 Character",
+      "items": {
+        "Accounting": {
+          "name": "Accounting"
+        },
+        "Anthropology": {
+          "name": "Anthropology"
+        },
+        "Appraise": {
+          "name": "Appraise"
+        },
+        "Archaeology": {
+          "name": "Archaeology"
+        },
+        "Art/Craft (Acting)": {
+          "name": "Art/Craft (Acting)"
+        },
+        "Charm": {
+          "name": "Charm"
+        },
+        "Climb": {
+          "name": "Climb"
+        },
+        "Credit Rating": {
+          "name": "Credit Rating"
+        },
+        "Cthulhu Mythos": {
+          "name": "Cthulhu Mythos"
+        },
+        "Disguise": {
+          "name": "Disguise"
+        },
+        "Dodge": {
+          "name": "Dodge"
+        },
+        "Drive Auto": {
+          "name": "Drive Auto"
+        },
+        "Electrical Repair": {
+          "name": "Electrical Repair"
+        },
+        "Fast Talk": {
+          "name": "Fast Talk"
+        },
+        "Fighting (Brawl)": {
+          "name": "Fighting (Brawl)"
+        },
+        "Fighting (Throw)": {
+          "name": "Fighting (Throw)"
+        },
+        "Firearms (Handgun)": {
+          "name": "Firearms (Handgun)"
+        },
+        "Firearms (Rifle/Shotgun)": {
+          "name": "Firearms (Rifle/Shotgun)"
+        },
+        "First Aid": {
+          "name": "First Aid"
+        },
+        "History": {
+          "name": "History"
+        },
+        "Intimidate": {
+          "name": "Intimidate"
+        },
+        "Jump": {
+          "name": "Jump"
+        },
+        "Language (English)": {
+          "name": "Language (English)"
+        },
+        "Law": {
+          "name": "Law"
+        },
+        "Library Use": {
+          "name": "Library Use"
+        },
+        "Listen": {
+          "name": "Listen"
+        },
+        "Locksmith": {
+          "name": "Locksmith"
+        },
+        "Mechanical Repair": {
+          "name": "Mechanical Repair"
+        },
+        "Medicine": {
+          "name": "Medicine"
+        },
+        "Natural World": {
+          "name": "Natural World"
+        },
+        "Navigate": {
+          "name": "Navigate"
+        },
+        "Occult": {
+          "name": "Occult"
+        },
+        "Operate Heavy Machinery": {
+          "name": "Operate Heavy Machinery"
+        },
+        "Persuade": {
+          "name": "Persuade"
+        },
+        "Psychoanalysis": {
+          "name": "Psychoanalysis"
+        },
+        "Psychology": {
+          "name": "Psychology"
+        },
+        "Ride": {
+          "name": "Ride"
+        },
+        "Science (Chemistry)": {
+          "name": "Science (Chemistry)"
+        },
+        "Sleight of Hand": {
+          "name": "Sleight of Hand"
+        },
+        "Spot Hidden": {
+          "name": "Spot Hidden"
+        },
+        "Stealth": {
+          "name": "Stealth"
+        },
+        "Swim": {
+          "name": "Swim"
+        },
+        "Punch": {
+          "name": "Punch"
+        }
+      }
+    },
+    "Creature example": {
+      "name": "Creature example",
+      "tokenName": "Creature example",
+      "items": {
+        "Pile of junk": {
+          "name": "Pile of junk"
+        },
+        "Fighting (Brawl)": {
+          "name": "Fighting (Brawl)"
+        },
+        "Fighting (Slice PCs in small cubes)": {
+          "name": "Fighting (Slice PCs in small cubes)"
+        },
+        "Deadly beak": {
+          "name": "Deadly beak"
+        },
+        "Innate attack": {
+          "name": "Innate attack"
+        }
+      }
+    },
+    "Cupboard": {
+      "name": "Cupboard",
+      "tokenName": "Cupboard",
+      "items": {
+        "Rapier": {
+          "name": "Rapier"
+        }
+      }
+    },
+    "Goon": {
+      "name": "Goon",
+      "tokenName": "Goon",
+      "items": {
+        "Orders": {
+          "name": "Orders"
+        },
+        "Secret documents": {
+          "name": "Secret documents"
+        },
+        "Be a pain": {
+          "name": "Be a pain"
+        },
+        "Dodge": {
+          "name": "Dodge"
+        },
+        "Fighting (Brawl)": {
+          "name": "Fighting (Brawl)"
+        },
+        "Firearms (Rifle/Shotgun)": {
+          "name": "Firearms (Rifle/Shotgun)"
+        },
+        "Language (English)": {
+          "name": "Language (English)"
+        },
+        "Receive orders": {
+          "name": "Receive orders"
+        },
+        "Try hard": {
+          "name": "Try hard"
+        },
+        "Club": {
+          "name": "Club"
+        },
+        "Punch": {
+          "name": "Punch"
+        },
+        "Shotgun": {
+          "name": "Shotgun"
+        }
+      }
+    },
+    "Villain example": {
+      "name": "Villain example",
+      "tokenName": "Villain example",
+      "items": {
+        "Very mean sidekick": {
+          "name": "Very mean sidekick"
+        },
+        "Plan to enslave humanity": {
+          "name": "Plan to enslave humanity"
+        },
+        "Bark orders": {
+          "name": "Bark orders"
+        },
+        "Be a pain": {
+          "name": "Be a pain"
+        },
+        "Dodge": {
+          "name": "Dodge"
+        },
+        "Fighting (Brawl)": {
+          "name": "Fighting (Brawl)"
+        },
+        "Firearms (Rifle/Shotgun)": {
+          "name": "Firearms (Rifle/Shotgun)"
+        },
+        "Language (English)": {
+          "name": "Language (English)"
+        },
+        "Takeover the world": {
+          "name": "Takeover the world"
+        },
+        "Torment the PC": {
+          "name": "Torment the PC"
+        },
+        "Punch": {
+          "name": "Punch"
+        },
+        "My test weapon": {
+          "name": "My test weapon"
+        }
+      }
+    }
+  }
+}

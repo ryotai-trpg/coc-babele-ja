@@ -1,0 +1,288 @@
+{
+  "label": "Skills",
+  "folders": {},
+  "entries": {
+    "Accounting": {
+      "name": "Accounting"
+    },
+    "Animal Handling": {
+      "name": "Animal Handling"
+    },
+    "Anthropology": {
+      "name": "Anthropology"
+    },
+    "Appraise": {
+      "name": "Appraise"
+    },
+    "Archaeology": {
+      "name": "Archaeology"
+    },
+    "Art/Craft (Acting)": {
+      "name": "Art/Craft (Acting)"
+    },
+    "Art/Craft (Any)": {
+      "name": "Art/Craft (Any)"
+    },
+    "Art/Craft (Fine Art)": {
+      "name": "Art/Craft (Fine Art)"
+    },
+    "Art/Craft (Forgery)": {
+      "name": "Art/Craft (Forgery)"
+    },
+    "Art/Craft (Photography)": {
+      "name": "Art/Craft (Photography)"
+    },
+    "Charm": {
+      "name": "Charm"
+    },
+    "Civics": {
+      "name": "Civics"
+    },
+    "Climb": {
+      "name": "Climb"
+    },
+    "Computer Use": {
+      "name": "Computer Use"
+    },
+    "Credit Rating": {
+      "name": "Credit Rating"
+    },
+    "Cthulhu Mythos": {
+      "name": "Cthulhu Mythos"
+    },
+    "Demolitions": {
+      "name": "Demolitions"
+    },
+    "Disguise": {
+      "name": "Disguise"
+    },
+    "Diving": {
+      "name": "Diving"
+    },
+    "Dodge": {
+      "name": "Dodge"
+    },
+    "Drive Auto": {
+      "name": "Drive Auto"
+    },
+    "Drive Carriage": {
+      "name": "Drive Carriage"
+    },
+    "Drive Horse / Oxen": {
+      "name": "Drive Horse / Oxen"
+    },
+    "Drive Wagon / Coach": {
+      "name": "Drive Wagon / Coach"
+    },
+    "Electrical Repair": {
+      "name": "Electrical Repair"
+    },
+    "Electronics": {
+      "name": "Electronics"
+    },
+    "Empire": {
+      "name": "Empire"
+    },
+    "Fast Talk": {
+      "name": "Fast Talk"
+    },
+    "Fighting (Any)": {
+      "name": "Fighting (Any)"
+    },
+    "Fighting (Axe)": {
+      "name": "Fighting (Axe)"
+    },
+    "Fighting (Brawl)": {
+      "name": "Fighting (Brawl)"
+    },
+    "Fighting (Chainsaw)": {
+      "name": "Fighting (Chainsaw)"
+    },
+    "Fighting (Flail)": {
+      "name": "Fighting (Flail)"
+    },
+    "Fighting (Garrote)": {
+      "name": "Fighting (Garrote)"
+    },
+    "Fighting (Spear)": {
+      "name": "Fighting (Spear)"
+    },
+    "Fighting (Sword)": {
+      "name": "Fighting (Sword)"
+    },
+    "Fighting (Throw)": {
+      "name": "Fighting (Throw)"
+    },
+    "Fighting (Whip)": {
+      "name": "Fighting (Whip)"
+    },
+    "Firearms (Any)": {
+      "name": "Firearms (Any)"
+    },
+    "Firearms (Artillery)": {
+      "name": "Firearms (Artillery)"
+    },
+    "Firearms (Bow)": {
+      "name": "Firearms (Bow)"
+    },
+    "Firearms (Flamethrower)": {
+      "name": "Firearms (Flamethrower)"
+    },
+    "Firearms (Handgun)": {
+      "name": "Firearms (Handgun)"
+    },
+    "Firearms (Heavy Weapons)": {
+      "name": "Firearms (Heavy Weapons)"
+    },
+    "Firearms (Machine Gun)": {
+      "name": "Firearms (Machine Gun)"
+    },
+    "Firearms (Rifle/Shotgun)": {
+      "name": "Firearms (Rifle/Shotgun)"
+    },
+    "Firearms (Submachine Gun)": {
+      "name": "Firearms (Submachine Gun)"
+    },
+    "First Aid": {
+      "name": "First Aid"
+    },
+    "Gambling": {
+      "name": "Gambling"
+    },
+    "History": {
+      "name": "History"
+    },
+    "Hypnosis": {
+      "name": "Hypnosis"
+    },
+    "Intimidate": {
+      "name": "Intimidate"
+    },
+    "Jump": {
+      "name": "Jump"
+    },
+    "Language (Any)": {
+      "name": "Language (Any)"
+    },
+    "Language (Own)": {
+      "name": "Language (Own)"
+    },
+    "Law": {
+      "name": "Law"
+    },
+    "Library Use": {
+      "name": "Library Use"
+    },
+    "Listen": {
+      "name": "Listen"
+    },
+    "Locksmith": {
+      "name": "Locksmith"
+    },
+    "Lore (Any)": {
+      "name": "Lore (Any)"
+    },
+    "Mechanical Repair": {
+      "name": "Mechanical Repair"
+    },
+    "Medicine": {
+      "name": "Medicine"
+    },
+    "Natural World": {
+      "name": "Natural World"
+    },
+    "Navigate": {
+      "name": "Navigate"
+    },
+    "Occult": {
+      "name": "Occult"
+    },
+    "Operate Heavy Machinery": {
+      "name": "Operate Heavy Machinery"
+    },
+    "Persuade": {
+      "name": "Persuade"
+    },
+    "Pilot (Any)": {
+      "name": "Pilot (Any)"
+    },
+    "Psychoanalysis": {
+      "name": "Psychoanalysis"
+    },
+    "Psychology": {
+      "name": "Psychology"
+    },
+    "Read Lips": {
+      "name": "Read Lips"
+    },
+    "Ride": {
+      "name": "Ride"
+    },
+    "Rope Use": {
+      "name": "Rope Use"
+    },
+    "Science (Any)": {
+      "name": "Science (Any)"
+    },
+    "Science (Astronomy)": {
+      "name": "Science (Astronomy)"
+    },
+    "Science (Biology)": {
+      "name": "Science (Biology)"
+    },
+    "Science (Botany)": {
+      "name": "Science (Botany)"
+    },
+    "Science (Chemistry)": {
+      "name": "Science (Chemistry)"
+    },
+    "Science (Cryptography)": {
+      "name": "Science (Cryptography)"
+    },
+    "Science (Engineering)": {
+      "name": "Science (Engineering)"
+    },
+    "Science (Forensics)": {
+      "name": "Science (Forensics)"
+    },
+    "Science (Geology)": {
+      "name": "Science (Geology)"
+    },
+    "Science (Mathematics)": {
+      "name": "Science (Mathematics)"
+    },
+    "Science (Meteorology)": {
+      "name": "Science (Meteorology)"
+    },
+    "Science (Pharmacy)": {
+      "name": "Science (Pharmacy)"
+    },
+    "Science (Physics)": {
+      "name": "Science (Physics)"
+    },
+    "Science (Zoology)": {
+      "name": "Science (Zoology)"
+    },
+    "Sleight of Hand": {
+      "name": "Sleight of Hand"
+    },
+    "Spot Hidden": {
+      "name": "Spot Hidden"
+    },
+    "Stealth": {
+      "name": "Stealth"
+    },
+    "Survival (Any)": {
+      "name": "Survival (Any)"
+    },
+    "Swim": {
+      "name": "Swim"
+    },
+    "Track": {
+      "name": "Track"
+    },
+    "Trap": {
+      "name": "Trap"
+    }
+  }
+}

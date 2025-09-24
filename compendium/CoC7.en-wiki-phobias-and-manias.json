@@ -1,0 +1,69 @@
+{
+  "label": "Phobias and Manias | en",
+  "folders": {
+    "Manias": "Manias",
+    "Phobias": "Phobias"
+  },
+  "entries": {
+    "Acrophobia": {
+      "name": "Acrophobia"
+    },
+    "Agathomania": {
+      "name": "Agathomania"
+    },
+    "Algomania": {
+      "name": "Algomania"
+    },
+    "Amenomania": {
+      "name": "Amenomania"
+    },
+    "Arachnophobia": {
+      "name": "Arachnophobia"
+    },
+    "Bibliokleptomania": {
+      "name": "Bibliokleptomania"
+    },
+    "Bibliophobia": {
+      "name": "Bibliophobia"
+    },
+    "Dikemania": {
+      "name": "Dikemania"
+    },
+    "Eisoptrophobia": {
+      "name": "Eisoptrophobia"
+    },
+    "Geliomania": {
+      "name": "Geliomania"
+    },
+    "Hemaphobia": {
+      "name": "Hemaphobia"
+    },
+    "Klazomania": {
+      "name": "Klazomania"
+    },
+    "Kleptomania": {
+      "name": "Kleptomania"
+    },
+    "Necrophobia": {
+      "name": "Necrophobia"
+    },
+    "Nosomania": {
+      "name": "Nosomania"
+    },
+    "Odontophobia": {
+      "name": "Odontophobia"
+    },
+    "Pseudomania": {
+      "name": "Pseudomania"
+    },
+    "Pyrophobia": {
+      "name": "Pyrophobia"
+    },
+    "Telephonophobia": {
+      "name": "Telephonophobia"
+    },
+    "Xenophobia": {
+      "name": "Xenophobia"
+    }
+  }
+}

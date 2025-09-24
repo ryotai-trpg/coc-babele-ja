@@ -1,0 +1,358 @@
+{
+  "label": "技能 | JA, EN",
+  "folders": {},
+  "mapping": {
+    "skillName": "system.skillName"
+  },
+  "entries": {
+    "Accounting": {
+      "name": "経理",
+      "skillName": "経理"
+    },
+    "Animal Handling": {
+      "name": "動物使い",
+      "skillName": "動物使い"
+    },
+    "Anthropology": {
+      "name": "人類学",
+      "skillName": "人類学"
+    },
+    "Appraise": {
+      "name": "鑑定",
+      "skillName": "鑑定"
+    },
+    "Archaeology": {
+      "name": "考古学",
+      "skillName": "考古学"
+    },
+    "Art/Craft (Acting)": {
+      "name": "芸術／製作 (Acting)"
+    },
+    "Art/Craft (Any)": {
+      "name": "芸術／製作 (Any)"
+    },
+    "Art/Craft (Fine Art)": {
+      "name": "芸術／製作 (Fine Art)"
+    },
+    "Art/Craft (Forgery)": {
+      "name": "芸術／製作 (Forgery)"
+    },
+    "Art/Craft (Photography)": {
+      "name": "芸術／製作 (Photography)"
+    },
+    "Charm": {
+      "name": "魅惑",
+      "skillName": "魅惑"
+    },
+    "Climb": {
+      "name": "登攀",
+      "skillName": "登攀"
+    },
+    "Computer Use": {
+      "name": "コンピューター",
+      "skillName": "コンピューター"
+    },
+    "Credit Rating": {
+      "name": "信用",
+      "skillName": "信用"
+    },
+    "Cthulhu Mythos": {
+      "name": "クトゥルフ神話",
+      "skillName": "クトゥルフ神話"
+    },
+    "Demolitions": {
+      "name": "爆破",
+      "skillName": "爆破"
+    },
+    "Disguise": {
+      "name": "変装",
+      "skillName": "変装"
+    },
+    "Diving": {
+      "name": "運転",
+      "skillName": "運転"
+    },
+    "Dodge": {
+      "name": "回避",
+      "skillName": "回避"
+    },
+    "Drive Auto": {
+      "name": "運転 (自動車)",
+      "skillName": "運転 (自動車)"
+    },
+    "Electrical Repair": {
+      "name": "電気修理",
+      "skillName": "電気修理"
+    },
+    "Electronics": {
+      "name": "電子工学",
+      "skillName": "電子工学"
+    },
+    "Fast Talk": {
+      "name": "言いくるめ",
+      "skillName": "言いくるめ"
+    },
+    "Fighting (Any)": {
+      "name": "近接戦闘 (Any)"
+    },
+    "Fighting (Axe)": {
+      "name": "近接戦闘 (Axe)"
+    },
+    "Fighting (Brawl)": {
+      "name": "近接戦闘 (Brawl)"
+    },
+    "Fighting (Chainsaw)": {
+      "name": "近接戦闘 (Chainsaw)"
+    },
+    "Fighting (Flail)": {
+      "name": "近接戦闘 (Flail)"
+    },
+    "Fighting (Garrote)": {
+      "name": "近接戦闘 (Garrote)"
+    },
+    "Fighting (Spear)": {
+      "name": "近接戦闘 (Spear)"
+    },
+    "Fighting (Sword)": {
+      "name": "近接戦闘 (Sword)"
+    },
+    "Fighting (Throw)": {
+      "name": "近接戦闘 (Throw)"
+    },
+    "Fighting (Whip)": {
+      "name": "近接戦闘 (Whip)"
+    },
+    "Firearms (Any)": {
+      "name": "射撃 (Any)"
+    },
+    "Firearms (Artillery)": {
+      "name": "射撃 (Artillery)"
+    },
+    "Firearms (Bow)": {
+      "name": "射撃 (Bow)"
+    },
+    "Firearms (Flamethrower)": {
+      "name": "射撃 (Flamethrower)"
+    },
+    "Firearms (Handgun)": {
+      "name": "射撃 (Handgun)"
+    },
+    "Firearms (Heavy Weapons)": {
+      "name": "射撃 (Heavy Weapons)"
+    },
+    "Firearms (Machine Gun)": {
+      "name": "射撃 (Machine Gun)"
+    },
+    "Firearms (Rifle/Shotgun)": {
+      "name": "射撃 (Rifle/Shotgun)"
+    },
+    "Firearms (Submachine Gun)": {
+      "name": "射撃 (Submachine Gun)"
+    },
+    "First Aid": {
+      "name": "応急手当",
+      "skillName": "応急手当"
+    },
+    "History": {
+      "name": "歴史",
+      "skillName": "歴史"
+    },
+    "Hypnosis": {
+      "name": "ヒプノーシス",
+      "skillName": "ヒプノーシス"
+    },
+    "Intimidate": {
+      "name": "威圧",
+      "skillName": "威圧"
+    },
+    "Jump": {
+      "name": "跳躍",
+      "skillName": "跳躍"
+    },
+    "Language (Czech)": {
+      "name": "言語 (Czech)"
+    },
+    "Language (Dutch)": {
+      "name": "言語 (Dutch)"
+    },
+    "Language (English)": {
+      "name": "言語 (English)"
+    },
+    "Language (German)": {
+      "name": "言語 (German)"
+    },
+    "Language (Other)": {
+      "name": "言語 (Other)"
+    },
+    "Language (Own)": {
+      "name": "言語 (Own)"
+    },
+    "Language (Polish)": {
+      "name": "言語 (Polish)"
+    },
+    "Language (Russian)": {
+      "name": "言語 (Russian)"
+    },
+    "Language (Swahili)": {
+      "name": "言語 (Swahili)"
+    },
+    "Language (Yoruba)": {
+      "name": "言語 (Yoruba)"
+    },
+    "Language (Zulu)": {
+      "name": "言語 (Zulu)"
+    },
+    "Law": {
+      "name": "法律",
+      "skillName": "法律"
+    },
+    "Library Use": {
+      "name": "図書館",
+      "skillName": "図書館"
+    },
+    "Listen": {
+      "name": "聞き耳",
+      "skillName": "聞き耳"
+    },
+    "Locksmith": {
+      "name": "鍵開け",
+      "skillName": "鍵開け"
+    },
+    "Lore (Any)": {
+      "name": "伝承 (Any)"
+    },
+    "Mechanical Repair": {
+      "name": "機械修理",
+      "skillName": "機械修理"
+    },
+    "Medicine": {
+      "name": "医学",
+      "skillName": "医学"
+    },
+    "Natural World": {
+      "name": "自然",
+      "skillName": "自然"
+    },
+    "Navigate": {
+      "name": "ナビゲート",
+      "skillName": "ナビゲート"
+    },
+    "Occult": {
+      "name": "オカルト",
+      "skillName": "オカルト"
+    },
+    "Operate Heavy Machinery": {
+      "name": "重機械操作",
+      "skillName": "重機械操作"
+    },
+    "Persuade": {
+      "name": "説得",
+      "skillName": "説得"
+    },
+    "Pilot (Aircraft)": {
+      "name": "操縦 (Aircraft)"
+    },
+    "Pilot (Any)": {
+      "name": "操縦 (Any)"
+    },
+    "Pilot (Boat)": {
+      "name": "操縦 (Boat)"
+    },
+    "Psychoanalysis": {
+      "name": "精神分析",
+      "skillName": "精神分析"
+    },
+    "Psychology": {
+      "name": "心理学",
+      "skillName": "心理学"
+    },
+    "Read Lips": {
+      "name": "読唇術",
+      "skillName": "読唇術"
+    },
+    "Ride": {
+      "name": "乗馬",
+      "skillName": "乗馬"
+    },
+    "Science (Any)": {
+      "name": "科学 (Any)"
+    },
+    "Science (Astronomy)": {
+      "name": "科学 (Astronomy)"
+    },
+    "Science (Biology)": {
+      "name": "科学 (Biology)"
+    },
+    "Science (Botany)": {
+      "name": "科学 (Botany)"
+    },
+    "Science (Chemistry)": {
+      "name": "科学 (Chemistry)"
+    },
+    "Science (Cryptography)": {
+      "name": "科学 (Cryptography)"
+    },
+    "Science (Engineering)": {
+      "name": "科学 (Engineering)"
+    },
+    "Science (Forensics)": {
+      "name": "科学 (Forensics)"
+    },
+    "Science (Geology)": {
+      "name": "科学 (Geology)"
+    },
+    "Science (Mathematics)": {
+      "name": "科学 (Mathematics)"
+    },
+    "Science (Meteorology)": {
+      "name": "科学 (Meteorology)"
+    },
+    "Science (Pharmacy)": {
+      "name": "科学 (Pharmacy)"
+    },
+    "Science (Physics)": {
+      "name": "科学 (Physics)"
+    },
+    "Science (Zoology)": {
+      "name": "科学 (Zoology)"
+    },
+    "Sleight of Hand": {
+      "name": "手さばき",
+      "skillName": "手さばき"
+    },
+    "Spot Hidden": {
+      "name": "目星",
+      "skillName": "目星"
+    },
+    "Stealth": {
+      "name": "隠密",
+      "skillName": "隠密"
+    },
+    "Survival (Alpine)": {
+      "name": "サバイバル (Alpine)"
+    },
+    "Survival (Any)": {
+      "name": "サバイバル (Any)"
+    },
+    "Survival (Arctic)": {
+      "name": "サバイバル (Arctic)"
+    },
+    "Survival (Desert)": {
+      "name": "サバイバル (Desert)"
+    },
+    "Survival (Sea)": {
+      "name": "サバイバル (Sea)"
+    },
+    "Survival (Woodland)": {
+      "name": "サバイバル (Woodland)"
+    },
+    "Swim": {
+      "name": "水泳",
+      "skillName": "水泳"
+    },
+    "Track": {
+      "name": "追跡",
+      "skillName": "追跡"
+    }
+  }
+}

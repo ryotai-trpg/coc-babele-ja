@@ -1,0 +1,376 @@
+{
+  "label": "呪文 | JA, EN",
+  "folders": {
+    "Call and Dismiss": "招来／退散",
+    "Combat": "戦闘",
+    "Contact": "接触",
+    "Enchantment": "付与",
+    "Gate": "門",
+    "Summoning": "召喚"
+  },
+  "entries": {
+    "Apportion Ka": {
+      "name": "カーの分配"
+    },
+    "Banishment of Yde Etad": {
+      "name": "イーデ・エタドの放逐"
+    },
+    "Bind Byakhee": {
+      "name": "ビヤーキーの従属"
+    },
+    "Bind Dark Young": {
+      "name": "黒き仔山羊の従属"
+    },
+    "Bind Dimensional Shambler": {
+      "name": "次元をさまようものの従属"
+    },
+    "Bind Fire Vampire": {
+      "name": "炎の吸血鬼の従属"
+    },
+    "Bind Hunting Horror": {
+      "name": "狩り立てる恐怖の従属"
+    },
+    "Bind Nightgaunt": {
+      "name": "夜鬼の従属"
+    },
+    "Bind Servitor Of The Outer Gods": {
+      "name": "外なる神の従者の従属"
+    },
+    "Bind Star Vampire": {
+      "name": "星の吸血鬼の従属"
+    },
+    "Bless Blade": {
+      "name": "刀身を清める"
+    },
+    "Body Warping of Gorgoroth": {
+      "name": "ゴルゴロスの肉体歪曲"
+    },
+    "Breath of the Deep": {
+      "name": "深淵の息"
+    },
+    "Brew Space-Mead": {
+      "name": "黄金の蜂蜜酒の製法"
+    },
+    "Call Azathoth": {
+      "name": "アザトースの招来"
+    },
+    "Call Cthugha": {
+      "name": "クトゥグァの招来"
+    },
+    "Call Cyaegha": {
+      "name": "シアエガの招来"
+    },
+    "Call Ghatanothoa": {
+      "name": "ガタノソアの招来"
+    },
+    "Call Hastur": {
+      "name": "ハスターの招来"
+    },
+    "Call Horned Man (Avatar of Nyarlathotep)": {
+      "name": "角を持つものの招来 (ニャルラトテップの化身)"
+    },
+    "Call Ithaqua": {
+      "name": "イタクァの招来"
+    },
+    "Call Nyogtha": {
+      "name": "ニョグタの招来"
+    },
+    "Call Shub-Niggurath": {
+      "name": "シュブ＝ニグラスの招来"
+    },
+    "Call Yog-Sothoth": {
+      "name": "ヨグ＝ソトースの招来"
+    },
+    "Cause/Cure Blindness": {
+      "name": "視覚を奪う／回復させる"
+    },
+    "Chant of Thoth": {
+      "name": "トートの詠唱"
+    },
+    "Cloud Memory": {
+      "name": "記憶を曇らせる"
+    },
+    "Clutch of Nyogtha": {
+      "name": "ニョグタのわしづかみ"
+    },
+    "Consume Likeness": {
+      "name": "似姿の利用"
+    },
+    "Contact Chthonian": {
+      "name": "クトーニアンとの接触"
+    },
+    "Contact Deep One": {
+      "name": "深きものとの接触"
+    },
+    "Contact Deity": {
+      "name": "神格との接触"
+    },
+    "Contact Deity: Chaugnar Faugn": {
+      "name": "神格との接触: チャウグナー・フォーン"
+    },
+    "Contact Deity: Cthulhu": {
+      "name": "神格との接触: クトゥルフ"
+    },
+    "Contact Deity: Dagon": {
+      "name": "神格との接触: ダゴン"
+    },
+    "Contact Deity: Eihort": {
+      "name": "神格との接触: アイホート"
+    },
+    "Contact Deity: Glaaki": {
+      "name": "神格との接触: グラーキ"
+    },
+    "Contact Deity: Hydra": {
+      "name": "神格との接触: ハイドラ"
+    },
+    "Contact Deity: Nodens": {
+      "name": "神格との接触: ノーデンス"
+    },
+    "Contact Deity: Nyarlathotep": {
+      "name": "神格との接触: ニャルラトテップ"
+    },
+    "Contact Deity: Tsathoggua": {
+      "name": "神格との接触: ツァトゥグァ"
+    },
+    "Contact Deity: Yibb-Tstll": {
+      "name": "神格との接触: イブ＝ツトゥル"
+    },
+    "Contact Deity: Yig": {
+      "name": "神格との接触: イグ"
+    },
+    "Contact Deity: Yog-Sothoth": {
+      "name": "神格との接触: ヨグ＝ソトース"
+    },
+    "Contact Deity: Y’golonac": {
+      "name": "神格との接触: イゴーロナク"
+    },
+    "Contact Deity: Zoth-Ommog": {
+      "name": "神格との接触: ゾス＝オムモグ"
+    },
+    "Contact Elder Thing": {
+      "name": "古のものとの接触"
+    },
+    "Contact Flying Polyp": {
+      "name": "飛行するポリプとの接触"
+    },
+    "Contact Formless Spawn": {
+      "name": "無形の落とし子との接触"
+    },
+    "Contact Ghoul": {
+      "name": "食屍鬼との接触"
+    },
+    "Contact Gnoph-Keh": {
+      "name": "ノフ＝ケーとの接触"
+    },
+    "Contact Hound of Tindalos": {
+      "name": "ティンダロスの猟犬との接触"
+    },
+    "Contact Lloigor": {
+      "name": "ロイガーとの接触"
+    },
+    "Contact Mi-Go": {
+      "name": "ミ＝ゴとの接触"
+    },
+    "Contact Rat-Thing": {
+      "name": "ネズミ怪物との接触"
+    },
+    "Contact Sand-Dweller": {
+      "name": "砂に棲むものとの接触"
+    },
+    "Contact Servitor of The Outer Gods": {
+      "name": "外なる神の従者との接触"
+    },
+    "Contact Spirits of the Dead": {
+      "name": "死者の霊魂との接触"
+    },
+    "Contact Star-Spawn of Cthulhu": {
+      "name": "クトゥルフの星の落とし子との接触"
+    },
+    "Contact Yithian": {
+      "name": "イス人との接触"
+    },
+    "Create Barrier of Naach-Tith": {
+      "name": "ナーク＝ティトの障壁の創造"
+    },
+    "Create Gate": {
+      "name": "門の創造"
+    },
+    "Create Mist of R’lyeh": {
+      "name": "ルルイエの霧の創造"
+    },
+    "Create Zombie": {
+      "name": "ゾンビの創造"
+    },
+    "Curse of the Putrid Husk": {
+      "name": "腐った外皮の呪い"
+    },
+    "Death Spell": {
+      "name": "死の呪文"
+    },
+    "Dismiss Azathoth": {
+      "name": "アザトースの退散"
+    },
+    "Dismiss Cthugha": {
+      "name": "クトゥグァの退散"
+    },
+    "Dismiss Cyaegha": {
+      "name": "シアエガの退散"
+    },
+    "Dismiss Ghatanothoa": {
+      "name": "ガタノソアの退散"
+    },
+    "Dismiss Hastur": {
+      "name": "ハスターの退散"
+    },
+    "Dismiss Ithaqua": {
+      "name": "イタクァの退散"
+    },
+    "Dismiss Nyarlathotep": {
+      "name": "ニャルラトテップの退散"
+    },
+    "Dismiss Nyogtha": {
+      "name": "ニョグタの退散"
+    },
+    "Dismiss Shub-Niggurath": {
+      "name": "シュブ＝ニグラスの退散"
+    },
+    "Dismiss Yog-Sothoth": {
+      "name": "ヨグ＝ソトースの退散"
+    },
+    "Dominate": {
+      "name": "支配"
+    },
+    "Dread Curse of Azathoth": {
+      "name": "アザトースの呪詛"
+    },
+    "Dust of Suleiman": {
+      "name": "スレイマンの塵"
+    },
+    "Elder Sign": {
+      "name": "旧き印"
+    },
+    "Enchant Book": {
+      "name": "本に魔力を付与する"
+    },
+    "Enchant Knife": {
+      "name": "ナイフに魔力を付与する"
+    },
+    "Enchant Pipes": {
+      "name": "笛に魔力を付与する"
+    },
+    "Enchant Sacrificial Dagger": {
+      "name": "生贄用のダガーに魔力を付与する"
+    },
+    "Enchant Whistle": {
+      "name": "ホイッスルに魔力を付与する"
+    },
+    "Enthrall Victim": {
+      "name": "犠牲者を魅了する"
+    },
+    "Evil Eye": {
+      "name": "邪眼"
+    },
+    "Find Gate": {
+      "name": "門の発見"
+    },
+    "Fist of Yog-Sothoth": {
+      "name": "ヨグ＝ソトースのこぶし"
+    },
+    "Flesh Ward": {
+      "name": "肉体の保護"
+    },
+    "Green Decay": {
+      "name": "緑の崩壊"
+    },
+    "Implant Fear": {
+      "name": "恐怖の注入"
+    },
+    "Melt Flesh (dead flesh)": {
+      "name": "肉の溶解 (死んでいる肉)"
+    },
+    "Melt Flesh (living flesh)": {
+      "name": "肉の溶解 (生きている肉)"
+    },
+    "Mental Suggestion": {
+      "name": "精神的従属"
+    },
+    "Mind Exchange": {
+      "name": "精神交換"
+    },
+    "Mind Transfer": {
+      "name": "精神転移"
+    },
+    "Mindblast": {
+      "name": "精神衝撃 (マインドブラスト)"
+    },
+    "Mirror of Tarkhun Atep": {
+      "name": "タールクン・アテプの鏡"
+    },
+    "Powder of Ibn-Ghazi": {
+      "name": "イブン＝グハジの粉"
+    },
+    "Prinn’s Crux Ansata": {
+      "name": "プリンのアンサタ十字"
+    },
+    "Red Sign of Shddle M'ell": {
+      "name": "シュド・メルの赤い印"
+    },
+    "Resurrection": {
+      "name": "復活"
+    },
+    "Shriveling": {
+      "name": "萎縮"
+    },
+    "Song of Hastur": {
+      "name": "ハスターの歌"
+    },
+    "Summon Byakhee": {
+      "name": "ビヤーキーの召喚"
+    },
+    "Summon Dark Young": {
+      "name": "黒い仔山羊の召喚"
+    },
+    "Summon Dimensional Shambler": {
+      "name": "次元をさまようものの召喚"
+    },
+    "Summon Fire Vampire": {
+      "name": "炎の吸血鬼の召喚"
+    },
+    "Summon Hunting Horror": {
+      "name": "狩り立てる恐怖の召喚"
+    },
+    "Summon Nightgaunt": {
+      "name": "夜鬼の召喚"
+    },
+    "Summon Servitor Of The Outer Gods": {
+      "name": "外なる神の従者の召喚"
+    },
+    "Summon Star Vampire": {
+      "name": "星の吸血鬼の召喚"
+    },
+    "Time Gate": {
+      "name": "時空門"
+    },
+    "View Gate": {
+      "name": "門の観察"
+    },
+    "Voorish Sign": {
+      "name": "ヴールの印"
+    },
+    "Warding": {
+      "name": "布石"
+    },
+    "Wave of Oblivion": {
+      "name": "忘却の波"
+    },
+    "Wither Limb": {
+      "name": "手足の萎縮"
+    },
+    "Words of Power": {
+      "name": "力の言葉"
+    },
+    "Wrack": {
+      "name": "破壊"
+    }
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "label": "ステータス | EN",
+  "folders": {
+    "Manias": "マニア",
+    "Phobias": "恐怖症"
+  },
+  "entries": {
+    "Ablutomania": {
+      "name": "洗浄マニア"
+    },
+    "Ablutophobia": {
+      "name": "入浴恐怖症"
+    },
+    "Aboulomania": {
+      "name": "無為マニア"
+    },
+    "Achluomania": {
+      "name": "暗黒マニア"
+    },
+    "Acromania (heights)": {
+      "name": "高所マニア"
+    },
+    "Acrophobia": {
+      "name": "高所恐怖症"
+    },
+    "Aerophobia": {
+      "name": "飛行恐怖症"
+    },
+    "Agathomania": {
+      "name": "善良マニア"
+    },
+    "Agoraphobia": {
+      "name": "広場恐怖症"
+    },
+    "Agromania": {
+      "name": "広場マニア"
+    },
+    "Aichmomania": {
+      "name": "先鋭マニア"
+    },
+    "Ailuromania": {
+      "name": "猫マニア"
+    },
+    "Alektorophobia": {
+      "name": "鶏肉恐怖症"
+    },
+    "Algomania": {
+      "name": "Algomania"
+    },
+    "Alliomania": {
+      "name": "Alliomania"
+    },
+    "Alliumphobia": {
+      "name": "Alliumphobia"
+    },
+    "Amaxomania": {
+      "name": "Amaxomania"
+    },
+    "Amaxophobia": {
+      "name": "Amaxophobia"
+    },
+    "Amenomania": {
+      "name": "Amenomania"
+    },
+    "Ancraophobia": {
+      "name": "Ancraophobia"
+    },
+    "Androphobia": {
+      "name": "Androphobia"
+    },
+    "Anglophobia": {
+      "name": "Anglophobia"
+    },
+    "Anthomania": {
+      "name": "Anthomania"
+    },
+    "Anthophobia": {
+      "name": "Anthophobia"
+    },
+    "Apotemnophobia": {
+      "name": "Apotemnophobia"
+    },
+    "Arachnophobia": {
+      "name": "Arachnophobia"
+    },
+    "Arithmomania": {
+      "name": "Arithmomania"
+    },
+    "Asoticamania": {
+      "name": "Asoticamania"
+    },
+    "Astraphobia": {
+      "name": "Astraphobia"
+    },
+    "Atephobia": {
+      "name": "Atephobia"
+    },
+    "Aulophobia": {
+      "name": "Aulophobia"
+    },
+    "Automania": {
+      "name": "Automania"
+    },
+    "Bacteriophobia": {
+      "name": "Bacteriophobia"
+    },
+    "Balletomania": {
+      "name": "Balletomania"
+    },
+    "Ballistophobia": {
+      "name": "Ballistophobia"
+    },
+    "Basophobia": {
+      "name": "Basophobia"
+    },
+    "Bibliokleptomania": {
+      "name": "Bibliokleptomania"
+    },
+    "Bibliomania": {
+      "name": "Bibliomania"
+    },
+    "Bibliophobia": {
+      "name": "Bibliophobia"
+    },
+    "Botanophobia": {
+      "name": "Botanophobia"
+    },
+    "Bruxomania": {
+      "name": "Bruxomania"
+    },
+    "Cacodemomania": {
+      "name": "Cacodemomania"
+    },
+    "Caligynephobia": {
+      "name": "Caligynephobia"
+    },
+    "Callomania": {
+      "name": "Callomania"
+    },
+    "Cartacoethes": {
+      "name": "Cartacoethes"
+    },
+    "Catapedamania": {
+      "name": "Catapedamania"
+    },
+    "Cheimaphobia": {
+      "name": "Cheimaphobia"
+    },
+    "Cheimatomania": {
+      "name": "Cheimatomania"
+    },
+    "Choreomania": {
+      "name": "Choreomania"
+    },
+    "Chronomentrophobia": {
+      "name": "Chronomentrophobia"
+    },
+    "Claustrophobia": {
+      "name": "Claustrophobia"
+    },
+    "Clinomania": {
+      "name": "Clinomania"
+    },
+    "Coimetromania": {
+      "name": "Coimetromania"
+    },
+    "Coloromania": {
+      "name": "Coloromania"
+    },
+    "Coulromania": {
+      "name": "Coulromania"
+    },
+    "Coulrophobia": {
+      "name": "Coulrophobia"
+    },
+    "Countermania": {
+      "name": "Countermania"
+    },
+    "Cynophobia": {
+      "name": "Cynophobia"
+    },
+    "Dacnomania": {
+      "name": "Dacnomania"
+    },
+    "Demonomania": {
+      "name": "Demonomania"
+    },
+    "Demonophobia": {
+      "name": "Demonophobia"
+    },
+    "Demophobia": {
+      "name": "Demophobia"
+    },
+    "Dentophobia": {
+      "name": "Dentophobia"
+    },
+    "Dermatillomania": {
+      "name": "Dermatillomania"
+    },
+    "Dikemania": {
+      "name": "Dikemania"
+    },
+    "Dipsomania": {
+      "name": "Dipsomania"
+    },
+    "Disposophobia": {
+      "name": "Disposophobia"
+    },
+    "Doramania": {
+      "name": "Doramania"
+    },
+    "Doraphobia": {
+      "name": "Doraphobia"
+    },
+    "Doromania": {
+      "name": "Doromania"
+    },
+    "Dromomania": {
+      "name": "Dromomania"
+    },
+    "Dromophobia": {
+      "name": "Dromophobia"
+    },
+    "Ecclesiophobia": {
+      "name": "Ecclesiophobia"
+    },
+    "Ecdemiomania": {
+      "name": "Ecdemiomania"
+    },
+    "Egomania": {
+      "name": "Egomania"
+    },
+    "Eisoptrophobia": {
+      "name": "Eisoptrophobia"
+    },
+    "Empleomania": {
+      "name": "Empleomania"
+    },
+    "Enetophobia": {
+      "name": "Enetophobia"
+    },
+    "Enosimania": {
+      "name": "Enosimania"
+    },
+    "Entomophobia": {
+      "name": "Entomophobia"
+    },
+    "Epistemomania": {
+      "name": "Epistemomania"
+    },
+    "Eremiomania": {
+      "name": "Eremiomania"
+    },
+    "Etheromania": {
+      "name": "Etheromania"
+    },
+    "Felinophobia": {
+      "name": "Felinophobia"
+    },
+    "Gamomania": {
+      "name": "Gamomania"
+    },
+    "Geliomania": {
+      "name": "Geliomania"
+    },
+    "Gephyrophobia": {
+      "name": "Gephyrophobia"
+    },
+    "Gerontophobia": {
+      "name": "Gerontophobia"
+    },
+    "Goetomania": {
+      "name": "Goetomania"
+    },
+    "Graphomania": {
+      "name": "Graphomania"
+    },
+    "Gymnomania": {
+      "name": "Gymnomania"
+    },
+    "Gynophobia": {
+      "name": "Gynophobia"
+    },
+    "Habromania": {
+      "name": "Habromania"
+    },
+    "Haemaphobia": {
+      "name": "Haemaphobia"
+    },
+    "Hamartophobia": {
+      "name": "Hamartophobia"
+    },
+    "Haphophobia": {
+      "name": "Haphophobia"
+    },
+    "Helminthomania": {
+      "name": "Helminthomania"
+    },
+    "Herpetophobia": {
+      "name": "Herpetophobia"
+    },
+    "Homichlophobia": {
+      "name": "Homichlophobia"
+    },
+    "Hoplomania": {
+      "name": "Hoplomania"
+    },
+    "Hoplophobia": {
+      "name": "Hoplophobia"
+    },
+    "Hydromania": {
+      "name": "Hydromania"
+    },
+    "Hydrophobia": {
+      "name": "Hydrophobia"
+    },
+    "Hypnophobia": {
+      "name": "Hypnophobia"
+    },
+    "Iatrophobia": {
+      "name": "Iatrophobia"
+    },
+    "Ichthyomania": {
+      "name": "Ichthyomania"
+    },
+    "Ichthyophobia": {
+      "name": "Ichthyophobia"
+    },
+    "Iconomania": {
+      "name": "Iconomania"
+    },
+    "Idolomania": {
+      "name": "Idolomania"
+    },
+    "Infomania": {
+      "name": "Infomania"
+    },
+    "Katsaridaphobia": {
+      "name": "Katsaridaphobia"
+    },
+    "Keraunophobia": {
+      "name": "Keraunophobia"
+    },
+    "Klazomania": {
+      "name": "Klazomania"
+    },
+    "Kleptomania": {
+      "name": "Kleptomania"
+    },
+    "Lachanophobia": {
+      "name": "Lachanophobia"
+    },
+    "Ligyromania": {
+      "name": "Ligyromania"
+    },
+    "Ligyrophobia": {
+      "name": "Ligyrophobia"
+    },
+    "Limnophobia": {
+      "name": "Limnophobia"
+    },
+    "Linonomania": {
+      "name": "Linonomania"
+    },
+    "Lotterymania": {
+      "name": "Lotterymania"
+    },
+    "Lypemania": {
+      "name": "Lypemania"
+    },
+    "Mechanophobia": {
+      "name": "Mechanophobia"
+    },
+    "Megalithomania": {
+      "name": "Megalithomania"
+    },
+    "Megalophobia": {
+      "name": "Megalophobia"
+    },
+    "Melomania": {
+      "name": "Melomania"
+    },
+    "Merinthophobia": {
+      "name": "Merinthophobia"
+    },
+    "Meteorophobia": {
+      "name": "Meteorophobia"
+    },
+    "Metromania": {
+      "name": "Metromania"
+    },
+    "Misomania": {
+      "name": "Misomania"
+    },
+    "Monomania": {
+      "name": "Monomania"
+    },
+    "Monophobia": {
+      "name": "Monophobia"
+    },
+    "Mysophobia": {
+      "name": "Mysophobia"
+    },
+    "Mythomania": {
+      "name": "Mythomania"
+    },
+    "Myxophobia": {
+      "name": "Myxophobia"
+    },
+    "Necrophobia": {
+      "name": "Necrophobia"
+    },
+    "Nosomania": {
+      "name": "Nosomania"
+    },
+    "Notomania": {
+      "name": "Notomania"
+    },
+    "Octophobia": {
+      "name": "Octophobia"
+    },
+    "Odontophobia": {
+      "name": "Odontophobia"
+    },
+    "Oneirophobia": {
+      "name": "Oneirophobia"
+    },
+    "Onomamania": {
+      "name": "Onomamania"
+    },
+    "Onomatomania": {
+      "name": "Onomatomania"
+    },
+    "Onomatophobia": {
+      "name": "Onomatophobia"
+    },
+    "Onychotillomania": {
+      "name": "Onychotillomania"
+    },
+    "Ophidiophobia": {
+      "name": "Ophidiophobia"
+    },
+    "Opsomania": {
+      "name": "Opsomania"
+    },
+    "Ornithophobia": {
+      "name": "Ornithophobia"
+    },
+    "Paramania": {
+      "name": "Paramania"
+    },
+    "Parasitophobia": {
+      "name": "Parasitophobia"
+    },
+    "Pediophobia": {
+      "name": "Pediophobia"
+    },
+    "Personamania": {
+      "name": "Personamania"
+    },
+    "Phagophobia": {
+      "name": "Phagophobia"
+    },
+    "Pharmacophobia": {
+      "name": "Pharmacophobia"
+    },
+    "Phasmomania": {
+      "name": "Phasmomania"
+    },
+    "Phasmophobia": {
+      "name": "Phasmophobia"
+    },
+    "Phenogophobia": {
+      "name": "Phenogophobia"
+    },
+    "Phonomania": {
+      "name": "Phonomania"
+    },
+    "Photomania": {
+      "name": "Photomania"
+    },
+    "Planomania": {
+      "name": "Planomania"
+    },
+    "Plutomania": {
+      "name": "Plutomania"
+    },
+    "Pogonophobia": {
+      "name": "Pogonophobia"
+    },
+    "Potamophobia": {
+      "name": "Potamophobia"
+    },
+    "Potophobia": {
+      "name": "Potophobia"
+    },
+    "Pseudomania": {
+      "name": "Pseudomania"
+    },
+    "Pyromania": {
+      "name": "Pyromania"
+    },
+    "Pyrophobia": {
+      "name": "Pyrophobia"
+    },
+    "Question-Asking Mania": {
+      "name": "Question-Asking Mania"
+    },
+    "Rhabdophobia": {
+      "name": "Rhabdophobia"
+    },
+    "Rhinotillexomania": {
+      "name": "Rhinotillexomania"
+    },
+    "Scotophobia": {
+      "name": "Scotophobia"
+    },
+    "Scribbleomania": {
+      "name": "Scribbleomania"
+    },
+    "Selenophobia": {
+      "name": "Selenophobia"
+    },
+    "Siderodromomania": {
+      "name": "Siderodromomania"
+    },
+    "Siderodromophobia": {
+      "name": "Siderodromophobia"
+    },
+    "Siderophobia": {
+      "name": "Siderophobia"
+    },
+    "Sophomania": {
+      "name": "Sophomania"
+    },
+    "Stenophobia": {
+      "name": "Stenophobia"
+    },
+    "Symmetrophobia": {
+      "name": "Symmetrophobia"
+    },
+    "Taphephobia": {
+      "name": "Taphephobia"
+    },
+    "Taurophobia": {
+      "name": "Taurophobia"
+    },
+    "Technomania": {
+      "name": "Technomania"
+    },
+    "Telephonophobia": {
+      "name": "Telephonophobia"
+    },
+    "Teratophobia": {
+      "name": "Teratophobia"
+    },
+    "Thalassophobia": {
+      "name": "Thalassophobia"
+    },
+    "Thanatomania": {
+      "name": "Thanatomania"
+    },
+    "Theomania": {
+      "name": "Theomania"
+    },
+    "Titillomaniac": {
+      "name": "Titillomaniac"
+    },
+    "Tomomania": {
+      "name": "Tomomania"
+    },
+    "Tomophobia": {
+      "name": "Tomophobia"
+    },
+    "Trichotillomania": {
+      "name": "Trichotillomania"
+    },
+    "Triskadekaphobia": {
+      "name": "Triskadekaphobia"
+    },
+    "Typhlomania": {
+      "name": "Typhlomania"
+    },
+    "Vestiphobia": {
+      "name": "Vestiphobia"
+    },
+    "Wiccaphobia": {
+      "name": "Wiccaphobia"
+    },
+    "Xanthophobia": {
+      "name": "Xanthophobia"
+    },
+    "Xenoglossophobia": {
+      "name": "Xenoglossophobia"
+    },
+    "Xenomania": {
+      "name": "Xenomania"
+    },
+    "Xenophobia": {
+      "name": "Xenophobia"
+    },
+    "Zoomania": {
+      "name": "Zoomania"
+    },
+    "Zoophobia": {
+      "name": "Zoophobia"
+    }
+  }
+}

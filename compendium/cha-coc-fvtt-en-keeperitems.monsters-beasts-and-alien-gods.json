@@ -1,0 +1,1906 @@
+{
+  "label": "怪物、獣、異界の神 | JA, EN",
+  "folders": {
+    "Beasts": "動物",
+    "Mythos Deities": "クトゥルフ神話の神格",
+    "Mythos Monsters": "クトゥルフ神話の怪物",
+    "Traditional Horrors": "伝統的な怪物"
+  },
+  "entries": {
+    "Abhoth": {
+      "name": "アブホース",
+      "tokenName": "アブホース",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        }
+      }
+    },
+    "Atlach-Nacha": {
+      "name": "アトラック＝ナチャ",
+      "tokenName": "アトラック＝ナチャ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Bite": {
+          "name": "噛みつき"
+        },
+        "All Contact spells": {
+          "name": "すべての《接触》の呪文"
+        },
+        "Fighting (Cast Web)": {
+          "name": "近接戦闘 (クモの糸を投げかける)"
+        },
+        "Cast Web": {
+          "name": "クモの糸を投げかける"
+        }
+      }
+    },
+    "Azathoth": {
+      "name": "アザトース",
+      "tokenName": "アザトース",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        }
+      }
+    },
+    "Bast": {
+      "name": "バースト",
+      "tokenName": "バースト",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Whatever spells the Keeper wishes.": {
+          "name": "キーパーが望む呪文すべて。"
+        }
+      }
+    },
+    "Bat": {
+      "name": "Bat",
+      "tokenName": "Bat",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Spot Hidden [echo-locate]": {
+          "name": "目星 [echo-locate]"
+        }
+      }
+    },
+    "Bear": {
+      "name": "熊",
+      "tokenName": "熊",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Climb": {
+          "name": "登攀"
+        },
+        "Listen": {
+          "name": "聞き耳"
+        },
+        "Scent Prey": {
+          "name": "Scent Prey"
+        }
+      }
+    },
+    "Byakhee": {
+      "name": "ビヤーキー",
+      "tokenName": "ビヤーキー",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Bite and Hold (mnvr)": {
+          "name": "噛みつきと押さえ込み (mnvr)"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Listen": {
+          "name": "聞き耳"
+        },
+        "Spot Hidden": {
+          "name": "目星"
+        }
+      }
+    },
+    "Chaugnar Faugn": {
+      "name": "チャウグナー・フォーン",
+      "tokenName": "チャウグナー・フォーン",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Bite and hold (mnvr)": {
+          "name": "Bite and hold (mnvr)"
+        },
+        "Heart Attack": {
+          "name": "Heart Attack"
+        },
+        "Mesmerize": {
+          "name": "Mesmerize"
+        },
+        "Contact Deity: Chaugnar Faugn": {
+          "name": "Contact Deity: Chaugnar Faugn"
+        },
+        "Curse of Chaugnar Faugn": {
+          "name": "Curse of Chaugnar Faugn"
+        },
+        "Summon/Bind Brother of Chaugnar Faugn": {
+          "name": "Summon/Bind Brother of Chaugnar Faugn"
+        },
+        "Others as Keeper desires": {
+          "name": "Others as Keeper desires"
+        },
+        "Fighting (Resist)": {
+          "name": "近接戦闘 (Resist)"
+        }
+      }
+    },
+    "Chthonian (Full Adult)": {
+      "name": "クトーニアン (完全な成体)",
+      "tokenName": "クトーニアン (完全な成体)",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Hold & Drain (mnvr)": {
+          "name": "押さえ込みと吸引 (mnvr)"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Crush": {
+          "name": "押しつぶし"
+        },
+        "Fighting (Crush)": {
+          "name": "近接戦闘 (押しつぶし)"
+        }
+      }
+    },
+    "Colour Out of Space": {
+      "name": "宇宙からの色",
+      "tokenName": "宇宙からの色",
+      "items": {
+        "Dodge": {
+          "name": "回避"
+        },
+        "Drain": {
+          "name": "Drain"
+        },
+        "Fighting (Opposed)": {
+          "name": "近接戦闘 (Opposed)"
+        },
+        "Mental Attack": {
+          "name": "精神攻撃"
+        }
+      }
+    },
+    "Condor": {
+      "name": "コンドル",
+      "tokenName": "コンドル",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Spot Hidden": {
+          "name": "目星"
+        }
+      }
+    },
+    "Crawling One": {
+      "name": "這うもの",
+      "tokenName": "這うもの",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "knows at least 1D10 spells.": {
+          "name": "knows at least 1D10 spells."
+        }
+      }
+    },
+    "Crocodile": {
+      "name": "クロコダイル",
+      "tokenName": "クロコダイル",
+      "items": {
+        "Dodge": {
+          "name": "回避"
+        },
+        "Stealth [in water]": {
+          "name": "隠密 [in water]"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Bite and hold (mnvr)": {
+          "name": "Bite and hold (mnvr)"
+        },
+        "Stealth": {
+          "name": "隠密"
+        }
+      }
+    },
+    "Cthugha": {
+      "name": "クトゥグァ",
+      "tokenName": "クトゥグァ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "All spells concerning entities of flame and itself": {
+          "name": "All spells concerning entities of flame and itself"
+        },
+        "Flame Burst": {
+          "name": "Flame Burst"
+        },
+        "Fighting (Resist)": {
+          "name": "近接戦闘 (Resist)"
+        }
+      }
+    },
+    "Cyaegha": {
+      "name": "シアエガ",
+      "tokenName": "シアエガ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Whatever Call/Dismiss or Contact spells the Keeper wishes.": {
+          "name": "Whatever Call/Dismiss or Contact spells the Keeper wishes."
+        }
+      }
+    },
+    "Daoloth": {
+      "name": "ダオロス",
+      "tokenName": "ダオロス",
+      "items": {
+        "Engulf": {
+          "name": "Engulf"
+        },
+        "Fighting (Engulf)": {
+          "name": "近接戦闘 (Engulf)"
+        }
+      }
+    },
+    "Dark Young": {
+      "name": "黒い仔山羊",
+      "tokenName": "黒い仔山羊",
+      "items": {
+        "Fighting (Trample)": {
+          "name": "近接戦闘 (踏みつけ)"
+        },
+        "Trample": {
+          "name": "踏みつけ"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "Grab (mnvr)": {
+          "name": "つかむ (mnvr)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "knows a number of spells equal to a tenth of its INT.": {
+          "name": "knows a number of spells equal to a tenth of its INT."
+        }
+      }
+    },
+    "Deep One": {
+      "name": "深きもの",
+      "tokenName": "深きもの",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "40% chance of knowing 1D4 spells.": {
+          "name": "40% chance of knowing 1D4 spells."
+        },
+        "Spear": {
+          "name": "Spear"
+        }
+      }
+    },
+    "Deep One Hybrid": {
+      "name": "深きものの交雑種",
+      "tokenName": "深きものの交雑種",
+      "items": {
+        "Dodge": {
+          "name": "回避"
+        },
+        "Jump": {
+          "name": "跳躍"
+        },
+        "Listen": {
+          "name": "聞き耳"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "Swim": {
+          "name": "水泳"
+        },
+        "10% chance of knowing 1D3 spells (older hybrids only)": {
+          "name": "10% chance of knowing 1D3 spells (older hybrids only)"
+        },
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        }
+      }
+    },
+    "Dhole": {
+      "name": "ドール",
+      "tokenName": "ドール",
+      "items": {
+        "Dodge": {
+          "name": "回避"
+        },
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Spit Goo": {
+          "name": "Spit Goo"
+        },
+        "Fighting (Spit)": {
+          "name": "近接戦闘 (Spit)"
+        },
+        "Engulf": {
+          "name": "Engulf"
+        },
+        "Fighting (Engulf)": {
+          "name": "近接戦闘 (Engulf)"
+        }
+      }
+    },
+    "Dimensional Shambler": {
+      "name": "次元をさまようもの",
+      "tokenName": "次元をさまようもの",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "40% chance of knowing 1D3 spells": {
+          "name": "40% chance of knowing 1D3 spells"
+        },
+        "Grab": {
+          "name": "つかむ"
+        }
+      }
+    },
+    "Dog": {
+      "name": "犬",
+      "tokenName": "犬",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Listen": {
+          "name": "聞き耳"
+        },
+        "Scent Something Interesting": {
+          "name": "Scent Something Interesting"
+        }
+      }
+    },
+    "Eihort": {
+      "name": "アイホート",
+      "tokenName": "アイホート",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Bite)": {
+          "name": "近接戦闘 (噛みつき)"
+        },
+        "Bite": {
+          "name": "噛みつき"
+        },
+        "Fighting (Crush)": {
+          "name": "近接戦闘 (Crush)"
+        },
+        "Crush": {
+          "name": "Crush"
+        },
+        "Other spells as the Keeper desires": {
+          "name": "Other spells as the Keeper desires"
+        },
+        "Cloud Memory": {
+          "name": "Cloud Memory"
+        },
+        "Create Gate": {
+          "name": "Create Gate"
+        },
+        "Summon/Bind Chthonian": {
+          "name": "Summon/Bind Chthonian"
+        },
+        "Summon/Bind Ghoul": {
+          "name": "Summon/Bind Ghoul"
+        }
+      }
+    },
+    "Elder Thing": {
+      "name": "古のもの",
+      "tokenName": "古のもの",
+      "items": {
+        "Dodge": {
+          "name": "回避"
+        },
+        "70% chance of knowing 1D4 spells": {
+          "name": "70% chance of knowing 1D4 spells"
+        },
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Seize": {
+          "name": "捕まえる"
+        }
+      }
+    },
+    "Father Dagon": {
+      "name": "父なるダゴン",
+      "tokenName": "父なるダゴン",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Knows all Summon, Bind and Contact Spells": {
+          "name": "Knows all Summon, Bind and Contact Spells"
+        }
+      }
+    },
+    "Fire Vampire": {
+      "name": "炎の吸血鬼",
+      "tokenName": "炎の吸血鬼",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "20% chance of knowing 1D3 spells": {
+          "name": "20% chance of knowing 1D3 spells"
+        }
+      }
+    },
+    "Flying Polyp": {
+      "name": "飛行するポリプ",
+      "tokenName": "飛行するポリプ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "70% chance of knowing 1D10 spells": {
+          "name": "70% chance of knowing 1D10 spells"
+        },
+        "Fighting (Wind Blast)": {
+          "name": "近接戦闘 (Wind Blast)"
+        },
+        "Wind Blast": {
+          "name": "Wind Blast"
+        },
+        "Fixing Attack": {
+          "name": "Fixing Attack"
+        }
+      }
+    },
+    "Formless Spawn": {
+      "name": "ツァトゥグァの無形の落とし子",
+      "tokenName": "ツァトゥグァの無形の落とし子",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Grab": {
+          "name": "つかむ"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "25% chance of knowing 1 spell; 2% know many": {
+          "name": "25% chance of knowing 1 spell; 2% know many"
+        },
+        "Bite": {
+          "name": "噛みつき"
+        }
+      }
+    },
+    "Ghast": {
+      "name": "ガスト",
+      "tokenName": "ガスト",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Stealth": {
+          "name": "隠密"
+        }
+      }
+    },
+    "Ghatananothoa": {
+      "name": "ガタノソア",
+      "tokenName": "ガタノソア",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        }
+      }
+    },
+    "Ghost": {
+      "name": "ゴースト",
+      "tokenName": "ゴースト",
+      "items": {
+        "Ghost Attack": {
+          "name": "Ghost Attack"
+        },
+        "Fighting (Opposed)": {
+          "name": "近接戦闘 (Opposed)"
+        }
+      }
+    },
+    "Ghoul": {
+      "name": "食屍鬼",
+      "tokenName": "食屍鬼",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Bite and hold (mnvr)": {
+          "name": "Bite and hold (mnvr)"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Climb": {
+          "name": "登攀"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "Jump": {
+          "name": "跳躍"
+        },
+        "Listen": {
+          "name": "聞き耳"
+        },
+        "Spot Hidden": {
+          "name": "目星"
+        },
+        "15% chance of knowing 1D10 spells": {
+          "name": "15% chance of knowing 1D10 spells"
+        }
+      }
+    },
+    "Gla'aki": {
+      "name": "グラーキ",
+      "tokenName": "グラーキ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        }
+      }
+    },
+    "Gnoph-Keh": {
+      "name": "ノフ＝ケー",
+      "tokenName": "ノフ＝ケー",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Horn Gore)": {
+          "name": "近接戦闘 (Horn Gore)"
+        },
+        "Horn Gore": {
+          "name": "Horn Gore"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Detect Prey": {
+          "name": "Detect Prey"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "75% chance of knowing 1D10 spells": {
+          "name": "75% chance of knowing 1D10 spells"
+        }
+      }
+    },
+    "Great Cthulhu": {
+      "name": "大いなるクトゥルフ",
+      "tokenName": "大いなるクトゥルフ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Scoop (mnvr)": {
+          "name": "Scoop (mnvr)"
+        },
+        "Knows hundreds of spells (not Summon/Bind Nightgaunt and Contact Nodens)": {
+          "name": "Knows hundreds of spells (not Summon/Bind Nightgaunt and Contact Nodens)"
+        },
+        "Contact Deep One": {
+          "name": "Contact Deep One"
+        },
+        "Contact Deity: Cthulhu": {
+          "name": "Contact Deity: Cthulhu"
+        }
+      }
+    },
+    "Great Race of Yith": {
+      "name": "イスの偉大なる種族",
+      "tokenName": "イスの偉大なる種族",
+      "items": {
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Lightning Gun": {
+          "name": "電撃銃"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Electrical Repair": {
+          "name": "電気修理"
+        },
+        "Science (Biology)": {
+          "name": "科学 (Biology)"
+        },
+        "Science (Chemistry)": {
+          "name": "科学 (Chemistry)"
+        },
+        "Science (Physics)": {
+          "name": "科学 (Physics)"
+        },
+        "10% chance of knowing 1D3 spells": {
+          "name": "10% chance of knowing 1D3 spells"
+        },
+        "Firearms (Lightning Gun)": {
+          "name": "Firearms (Lightning Gun)"
+        }
+      }
+    },
+    "Hastur the Unnameable": {
+      "name": "ハスター",
+      "tokenName": "ハスター",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Other spells as desired by the Keeper": {
+          "name": "Other spells as desired by the Keeper"
+        },
+        "Brew Space-Mead": {
+          "name": "Brew Space-Mead"
+        },
+        "All Call/Contact Spells": {
+          "name": "All Call/Contact Spells"
+        },
+        "Summon Byakhee": {
+          "name": "Summon Byakhee"
+        },
+        "Bind Byakhee": {
+          "name": "Bind Byakhee"
+        }
+      }
+    },
+    "Horse": {
+      "name": "馬",
+      "tokenName": "馬",
+      "items": {
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Dodge": {
+          "name": "回避"
+        }
+      }
+    },
+    "Hound of Tindalos": {
+      "name": "ティンダロスの猟犬",
+      "tokenName": "ティンダロスの猟犬",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Knows at least 1D8 spells": {
+          "name": "Knows at least 1D8 spells"
+        },
+        "Fighting (Tongue)": {
+          "name": "近接戦闘 (Tongue)"
+        },
+        "Tongue": {
+          "name": "舌"
+        }
+      }
+    },
+    "Hunting Horror": {
+      "name": "狩り立てる恐怖",
+      "tokenName": "狩り立てる恐怖",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Spot Hidden": {
+          "name": "目星"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "25% chance of knowing 2D10 spells": {
+          "name": "25% chance of knowing 2D10 spells"
+        },
+        "Grasp": {
+          "name": "Grasp"
+        }
+      }
+    },
+    "Insect from Shaggai": {
+      "name": "シャッガイからの昆虫",
+      "tokenName": "シャッガイからの昆虫",
+      "items": {
+        "Dodge": {
+          "name": "回避"
+        },
+        "80% chance of knowing 2D10 spells": {
+          "name": "80% chance of knowing 2D10 spells"
+        },
+        "Fighting (Nerve Whip)": {
+          "name": "近接戦闘 (Nerve Whip)"
+        },
+        "Nerve Whip": {
+          "name": "Nerve Whip"
+        },
+        "Fighting (Meld)": {
+          "name": "近接戦闘 (Meld)"
+        },
+        "Meld": {
+          "name": "Meld"
+        },
+        "Call Azathoth": {
+          "name": "Call Azathoth"
+        }
+      }
+    },
+    "Ithaqua": {
+      "name": "イタクァ",
+      "tokenName": "イタクァ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "All Call and Contact spells": {
+          "name": "All Call and Contact spells"
+        },
+        "Wind Gust": {
+          "name": "Wind Gust"
+        },
+        "Fighting (Wind Gust)": {
+          "name": "近接戦闘 (Wind Gust)"
+        }
+      }
+    },
+    "Lion": {
+      "name": "ライオン",
+      "tokenName": "ライオン",
+      "items": {
+        "Dodge": {
+          "name": "回避"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "Track": {
+          "name": "Track"
+        },
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting Attack": {
+          "name": "Fighting Attack"
+        }
+      }
+    },
+    "Lloigor": {
+      "name": "ロイガー",
+      "tokenName": "ロイガー",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "know at least 1D4 spells": {
+          "name": "know at least 1D4 spells"
+        }
+      }
+    },
+    "Mi-go": {
+      "name": "ミ＝ゴ",
+      "tokenName": "ミ＝ゴ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "25% chance of knowing 1D3 spells": {
+          "name": "25% chance of knowing 1D3 spells"
+        },
+        "Seize": {
+          "name": "捕まえる"
+        }
+      }
+    },
+    "Mother Hydra": {
+      "name": "母なるハイドラ",
+      "tokenName": "母なるハイドラ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Knows all Summon, Bind and Contact Spells": {
+          "name": "Knows all Summon, Bind and Contact Spells"
+        }
+      }
+    },
+    "Mummy": {
+      "name": "ミイラ",
+      "tokenName": "ミイラ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Stealth": {
+          "name": "隠密"
+        }
+      }
+    },
+    "Nightgaunt": {
+      "name": "夜鬼",
+      "tokenName": "夜鬼",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "Seize (mnvr)": {
+          "name": "捕まえる (mnvr)"
+        },
+        "Tickle": {
+          "name": "Tickle"
+        },
+        "Fighting (Tickle)": {
+          "name": "近接戦闘 (Tickle)"
+        }
+      }
+    },
+    "Nodens": {
+      "name": "ノーデンス",
+      "tokenName": "ノーデンス"
+    },
+    "Nyarlathotep (Human Form)": {
+      "name": "ニャルラトテップ (人間の姿)",
+      "tokenName": "ニャルラトテップ (人間の姿)",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "knows all Mythos spells": {
+          "name": "knows all Mythos spells"
+        }
+      }
+    },
+    "Nyarlathotep (Monstrous Form)": {
+      "name": "ニャルラトテップ (怪物の姿)",
+      "tokenName": "ニャルラトテップ (怪物の姿)",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        }
+      }
+    },
+    "Nyogtha": {
+      "name": "ニョグタ",
+      "tokenName": "ニョグタ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "All Call and Contact spells": {
+          "name": "All Call and Contact spells"
+        },
+        "Create Gate": {
+          "name": "Create Gate"
+        }
+      }
+    },
+    "Rat Pack": {
+      "name": "ネズミの群れ",
+      "tokenName": "ネズミの群れ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Overwhelm (mnvr)": {
+          "name": "Overwhelm (mnvr)"
+        },
+        "Dodge": {
+          "name": "回避"
+        }
+      }
+    },
+    "Rat-Thing": {
+      "name": "ネズミ怪物",
+      "tokenName": "ネズミ怪物",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "Listen": {
+          "name": "聞き耳"
+        },
+        "30% chance of knowing 1D3 spells": {
+          "name": "30% chance of knowing 1D3 spells"
+        }
+      }
+    },
+    "Rhan-Tegoth": {
+      "name": "ラーン＝テゴス",
+      "tokenName": "ラーン＝テゴス",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Any": {
+          "name": "Any"
+        }
+      }
+    },
+    "Sand-Dweller": {
+      "name": "砂に棲むもの",
+      "tokenName": "砂に棲むもの",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Listen": {
+          "name": "聞き耳"
+        },
+        "Spot Hidden": {
+          "name": "目星"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "30% chance of knowing 1D6 spells": {
+          "name": "30% chance of knowing 1D6 spells"
+        }
+      }
+    },
+    "Serpent Person": {
+      "name": "蛇人間",
+      "tokenName": "蛇人間",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Bite)": {
+          "name": "近接戦闘 (噛みつき)"
+        },
+        "Bite": {
+          "name": "噛みつき"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Intimidate": {
+          "name": "Intimidate"
+        },
+        "Science (Biology)": {
+          "name": "科学 (Biology)"
+        },
+        "Science (Chemistry)": {
+          "name": "科学 (Chemistry)"
+        },
+        "Spot Hidden": {
+          "name": "目星"
+        },
+        "At least 2D6 Spells": {
+          "name": "At least 2D6 Spells"
+        },
+        "Consume Likeness": {
+          "name": "Consume Likeness"
+        }
+      }
+    },
+    "Servant of Gla'aki": {
+      "name": "グラーキの従者",
+      "tokenName": "グラーキの従者",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Sickle": {
+          "name": "小鎌"
+        }
+      }
+    },
+    "Servitor of the Outer Gods": {
+      "name": "外なる神の従者",
+      "tokenName": "外なる神の従者",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Knows 1D10 spells always including several Summon/Bind and Call spells": {
+          "name": "Knows 1D10 spells always including several Summon/Bind and Call spells"
+        }
+      }
+    },
+    "Shantak": {
+      "name": "シャンタク鳥",
+      "tokenName": "シャンタク鳥",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Bite and hold (mnvr)": {
+          "name": "Bite and hold (mnvr)"
+        },
+        "Dodge": {
+          "name": "回避"
+        }
+      }
+    },
+    "Shark": {
+      "name": "サメ",
+      "tokenName": "サメ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Bite and hold (mnvr)": {
+          "name": "Bite and hold (mnvr)"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Sense Life": {
+          "name": "Sense Life"
+        }
+      }
+    },
+    "Shoggoth": {
+      "name": "ショゴス",
+      "tokenName": "ショゴス",
+      "items": {
+        "Dodge": {
+          "name": "回避"
+        },
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Engulf": {
+          "name": "Engulf"
+        }
+      }
+    },
+    "Shoggoth Lord (Human Form)": {
+      "name": "ショゴス・ロード (人間の姿)",
+      "tokenName": "ショゴス・ロード (人間の姿)",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Charm": {
+          "name": "魅惑"
+        },
+        "Intimidate": {
+          "name": "Intimidate"
+        },
+        "Persuade": {
+          "name": "Persuade"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "1D3 spells": {
+          "name": "1D3 spells"
+        }
+      }
+    },
+    "Shoggoth Lord (Shoggoth Form)": {
+      "name": "ショゴス・ロード (ショゴスの姿)",
+      "tokenName": "ショゴス・ロード (ショゴスの姿)",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Charm": {
+          "name": "魅惑"
+        },
+        "Intimidate": {
+          "name": "Intimidate"
+        },
+        "Persuade": {
+          "name": "Persuade"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "1D3 spells": {
+          "name": "1D3 spells"
+        }
+      }
+    },
+    "Shub-Niggurath": {
+      "name": "シュブ＝ニグラス",
+      "tokenName": "シュブ＝ニグラス",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Trample)": {
+          "name": "近接戦闘 (踏みつけ)"
+        },
+        "Trample": {
+          "name": "踏みつけ"
+        },
+        "at minimum all spells pertaining to the gods": {
+          "name": "at minimum all spells pertaining to the gods"
+        },
+        "Seize (mnvr)": {
+          "name": "捕まえる (mnvr)"
+        },
+        "Create Gate": {
+          "name": "Create Gate"
+        },
+        "Dread Curse of Azathoth": {
+          "name": "Dread Curse of Azathoth"
+        },
+        "Voorish Sign": {
+          "name": "Voorish Sign"
+        }
+      }
+    },
+    "Shudde M'ell": {
+      "name": "シュド・メル",
+      "tokenName": "シュド・メル",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Crush)": {
+          "name": "近接戦闘 (Crush)"
+        },
+        "Crush": {
+          "name": "Crush"
+        },
+        "Knows all spells the Keeper finds appropriate": {
+          "name": "Knows all spells the Keeper finds appropriate"
+        },
+        "Grab and Feed (mnvr)": {
+          "name": "Grab and Feed (mnvr)"
+        }
+      }
+    },
+    "Skeleton": {
+      "name": "骸骨",
+      "tokenName": "骸骨",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        }
+      }
+    },
+    "Snake (Constrictor)": {
+      "name": "締めつける蛇",
+      "tokenName": "締めつける蛇",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Constrict (mnvr)": {
+          "name": "Constrict (mnvr)"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Stealth": {
+          "name": "隠密"
+        }
+      }
+    },
+    "Snake (Venomous)": {
+      "name": "毒蛇",
+      "tokenName": "毒蛇",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Stealth": {
+          "name": "隠密"
+        }
+      }
+    },
+    "Spawn of Ubbo-Sathla": {
+      "name": "ウボ＝サスラの落とし子",
+      "tokenName": "ウボ＝サスラの落とし子",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "Swallow (mnvr)": {
+          "name": "Swallow (mnvr)"
+        }
+      }
+    },
+    "Squid": {
+      "name": "イカ",
+      "tokenName": "イカ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Seize (mnvr)": {
+          "name": "捕まえる (mnvr)"
+        },
+        "Bite (must be seized)": {
+          "name": "Bite (must be seized)"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Stealth": {
+          "name": "隠密"
+        }
+      }
+    },
+    "Star Vampire": {
+      "name": "星の吸血鬼",
+      "tokenName": "星の吸血鬼",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Seize (mnvr)": {
+          "name": "捕まえる (mnvr)"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "30% chance of knowing 1D3 spells": {
+          "name": "30% chance of knowing 1D3 spells"
+        },
+        "Bite": {
+          "name": "噛みつき"
+        }
+      }
+    },
+    "Star-Spawn of Cthulhu": {
+      "name": "クトゥルフの星の落とし子",
+      "tokenName": "クトゥルフの星の落とし子",
+      "items": {
+        "Dodge": {
+          "name": "回避"
+        },
+        "3D6 spells": {
+          "name": "3D6 spells"
+        },
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        }
+      }
+    },
+    "Tcho-Tcho": {
+      "name": "チョー＝チョー人",
+      "tokenName": "チョー＝チョー人",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Intimidate": {
+          "name": "Intimidate"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "Track": {
+          "name": "Track"
+        },
+        "At least 3 spells": {
+          "name": "At least 3 spells"
+        },
+        "Swim": {
+          "name": "水泳"
+        },
+        "Voorish Sign": {
+          "name": "Voorish Sign"
+        }
+      }
+    },
+    "The King in Yellow": {
+      "name": "黄衣の王",
+      "tokenName": "黄衣の王",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Razor Sharp Tatters": {
+          "name": "Razor Sharp Tatters"
+        },
+        "All Call and Contact spells, and others as the Keeper desires": {
+          "name": "All Call and Contact spells, and others as the Keeper desires"
+        },
+        "Gaze of the Yellow King": {
+          "name": "Gaze of the Yellow King"
+        },
+        "Face Tentacle": {
+          "name": "Face Tentacle"
+        }
+      }
+    },
+    "Tsathoggua": {
+      "name": "ツァトゥグァ",
+      "tokenName": "ツァトゥグァ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Hold and feed (mnvr)": {
+          "name": "Hold and feed (mnvr)"
+        },
+        "Broad magical powers, as befits a Great Old One": {
+          "name": "Broad magical powers, as befits a Great Old One"
+        },
+        "Create Gate": {
+          "name": "Create Gate"
+        }
+      }
+    },
+    "Tulzscha": {
+      "name": "トゥールスチャ",
+      "tokenName": "トゥールスチャ",
+      "items": {
+        "Fighting (Flame Gout)": {
+          "name": "近接戦闘 (Flame Gout)"
+        },
+        "All in the Grimoire and as the Keeper wishes": {
+          "name": "All in the Grimoire and as the Keeper wishes"
+        },
+        "Flame Gout": {
+          "name": "Flame Gout"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Automatic)": {
+          "name": "近接戦闘 (Automatic)"
+        }
+      }
+    },
+    "Ubbo-Sathla": {
+      "name": "ウボ＝サスラ",
+      "tokenName": "ウボ＝サスラ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Generate Spawn": {
+          "name": "Generate Spawn"
+        }
+      }
+    },
+    "Vampire": {
+      "name": "吸血鬼",
+      "tokenName": "吸血鬼",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Bite)": {
+          "name": "近接戦闘 (噛みつき)"
+        },
+        "Bite": {
+          "name": "噛みつき"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Charm": {
+          "name": "魅惑"
+        },
+        "Human Psychology": {
+          "name": "Human Psychology"
+        },
+        "Track [Scent Blood]": {
+          "name": "Track [Scent Blood]"
+        },
+        "Stealth": {
+          "name": "隠密"
+        },
+        "Gaze": {
+          "name": "Gaze"
+        },
+        "Fighting (Opposed)": {
+          "name": "近接戦闘 (Opposed)"
+        }
+      }
+    },
+    "Wasp and Bee Swarm": {
+      "name": "蜂の群れ",
+      "tokenName": "蜂の群れ"
+    },
+    "Werewolf": {
+      "name": "人狼",
+      "tokenName": "人狼",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Track [by smell]": {
+          "name": "Track [by smell]"
+        },
+        "Stealth": {
+          "name": "隠密"
+        }
+      }
+    },
+    "Wolf": {
+      "name": "オオカミ",
+      "tokenName": "オオカミ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Track [by smell]": {
+          "name": "Track [by smell]"
+        },
+        "Spot Hidden": {
+          "name": "目星"
+        }
+      }
+    },
+    "Y'golonac": {
+      "name": "イゴーロナク",
+      "tokenName": "イゴーロナク",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "Fighting (Bite)": {
+          "name": "近接戦闘 (噛みつき)"
+        },
+        "Bite": {
+          "name": "噛みつき"
+        },
+        "Dodge": {
+          "name": "回避"
+        },
+        "Summon/Bind and Contact spells, and whatever else the Keeper thinks appropriate": {
+          "name": "Summon/Bind and Contact spells, and whatever else the Keeper thinks appropriate"
+        }
+      }
+    },
+    "Yibb-tstll": {
+      "name": "イブ＝ツトゥル",
+      "tokenName": "イブ＝ツトゥル",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Touch": {
+          "name": "タッチ"
+        },
+        "All contact spells and others as desired by the Keeper": {
+          "name": "All contact spells and others as desired by the Keeper"
+        },
+        "Contact Deity: Yibb-Tstll": {
+          "name": "Contact Deity: Yibb-Tstll"
+        },
+        "Summon Nightgaunt": {
+          "name": "Summon Nightgaunt"
+        },
+        "Bind Nightgaunt": {
+          "name": "Bind Nightgaunt"
+        }
+      }
+    },
+    "Yig": {
+      "name": "イグ",
+      "tokenName": "イグ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "All usual Summon/Bind and Contact spells; Keepers should add other spells as desired.": {
+          "name": "All usual Summon/Bind and Contact spells; Keepers should add other spells as desired."
+        },
+        "Grasp (mnvr)": {
+          "name": "Grasp (mnvr)"
+        },
+        "Bite (after Grasp)": {
+          "name": "噛みつき (after Grasp)"
+        }
+      }
+    },
+    "Yog-Sothoth": {
+      "name": "ヨグ＝ソトース",
+      "tokenName": "ヨグ＝ソトース",
+      "items": {
+        "Fighting (Bolts)": {
+          "name": "近接戦闘 (Bolts)"
+        },
+        "Bolts": {
+          "name": "Bolts"
+        },
+        "As many as it wants": {
+          "name": "As many as it wants"
+        },
+        "Spheres": {
+          "name": "Spheres"
+        },
+        "Fighting (Spheres)": {
+          "name": "近接戦闘 (Spheres)"
+        }
+      }
+    },
+    "Zombie": {
+      "name": "ゾンビ",
+      "tokenName": "ゾンビ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        }
+      }
+    },
+    "Zoth-Ommog": {
+      "name": "ゾス＝オムモグ",
+      "tokenName": "ゾス＝オムモグ",
+      "items": {
+        "Fighting (Fighting)": {
+          "name": "近接戦闘 (近接戦闘)"
+        },
+        "Fighting": {
+          "name": "近接戦闘"
+        },
+        "All Call and Contact spells, plus any that the Keeper finds appropriate": {
+          "name": "All Call and Contact spells, plus any that the Keeper finds appropriate"
+        }
+      }
+    }
+  }
+}

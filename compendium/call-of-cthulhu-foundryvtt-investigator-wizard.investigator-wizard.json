@@ -1,0 +1,1609 @@
+{
+  "label": "探索者ウィザード",
+  "mapping": {
+    "skillName": "system.skillName",
+    "specialization": "system.specialization"
+  },
+  "entries": {
+    "Butler": {
+      "name": "Butler"
+    },
+    "Art/Craft (Art Appreciation)": {
+      "name": "芸術／製作 (Art Appreciation)",
+      "specialization": "芸術／製作"
+    },
+    "Secretary": {
+      "name": "Secretary"
+    },
+    "Cthulhu Mythos": {
+      "name": "クトゥルフ神話",
+      "skillName": "クトゥルフ神話"
+    },
+    "Military Officer": {
+      "name": "Military Officer"
+    },
+    "Cthulhu by Gaslight Setup": {
+      "name": "Cthulhu by Gaslight Setup"
+    },
+    "Status": {
+      "name": "Status"
+    },
+    "Mechanic": {
+      "name": "Mechanic"
+    },
+    "Art/Craft (Fletcher)": {
+      "name": "芸術／製作 (Fletcher)",
+      "specialization": "芸術／製作"
+    },
+    "Healer": {
+      "name": "Healer"
+    },
+    "Regency Cthulhu Setup": {
+      "name": "Regency Cthulhu Setup"
+    },
+    "Consulting Detective": {
+      "name": "Consulting Detective"
+    },
+    "Foreign Correspondent": {
+      "name": "Foreign Correspondent"
+    },
+    "Psychoanalyst": {
+      "name": "Psychoanalyst"
+    },
+    "Plumber": {
+      "name": "Plumber"
+    },
+    "Animal Handling": {
+      "name": "動物使い",
+      "skillName": "動物使い"
+    },
+    "Photojournalist": {
+      "name": "Photojournalist"
+    },
+    "Art/Craft (Forgery)": {
+      "name": "芸術／製作 (Forgery)",
+      "specialization": "芸術／製作"
+    },
+    "Conman": {
+      "name": "Conman"
+    },
+    "Firearms (Heavy Weapons)": {
+      "name": "射撃 (重火器)",
+      "specialization": "射撃",
+      "skillName": "重火器"
+    },
+    "Aristocrat": {
+      "name": "Aristocrat"
+    },
+    "White-Collar Worker, Middle/Senior Manager": {
+      "name": "White-Collar Worker, Middle/Senior Manager"
+    },
+    "Cold Blooded": {
+      "name": "Cold Blooded"
+    },
+    "Clerk": {
+      "name": "Clerk"
+    },
+    "Rancher": {
+      "name": "Rancher"
+    },
+    "Nouveau Riche": {
+      "name": "Nouveau Riche"
+    },
+    "Grease Monkey": {
+      "name": "Grease Monkey"
+    },
+    "Outlaw": {
+      "name": "Outlaw"
+    },
+    "Prospector": {
+      "name": "Prospector"
+    },
+    "Merchant": {
+      "name": "Merchant"
+    },
+    "Drive Wagon / Coach": {
+      "name": "Drive Wagon / Coach"
+    },
+    "Ranged (Sling)": {
+      "name": "Ranged (Sling)"
+    },
+    "Gambler": {
+      "name": "Gambler"
+    },
+    "Craftsperson": {
+      "name": "Craftsperson"
+    },
+    "Journalist": {
+      "name": "Journalist"
+    },
+    "Accountant": {
+      "name": "Accountant"
+    },
+    "Soldier": {
+      "name": "Soldier"
+    },
+    "Climb": {
+      "name": "登攀",
+      "skillName": "登攀"
+    },
+    "Doctor": {
+      "name": "Doctor"
+    },
+    "Confidence Trickster": {
+      "name": "Confidence Trickster"
+    },
+    "Antique Dealer": {
+      "name": "Antique Dealer"
+    },
+    "Art/Craft (Fine Art)": {
+      "name": "芸術／製作 (Fine Art)",
+      "specialization": "芸術／製作"
+    },
+    "Gentleman": {
+      "name": "Gentleman"
+    },
+    "Counterfeiter": {
+      "name": "Counterfeiter"
+    },
+    "Natural World": {
+      "name": "自然",
+      "skillName": "自然"
+    },
+    "Laboratory Assistant": {
+      "name": "Laboratory Assistant"
+    },
+    "Ride": {
+      "name": "乗馬",
+      "skillName": "乗馬"
+    },
+    "Pharmacist": {
+      "name": "Pharmacist"
+    },
+    "Asylum Attendant": {
+      "name": "Asylum Attendant"
+    },
+    "Servant": {
+      "name": "Servant"
+    },
+    "Science (Geography)": {
+      "name": "科学 (Geography)",
+      "specialization": "科学"
+    },
+    "Medium": {
+      "name": "Medium"
+    },
+    "Bounty Hunter": {
+      "name": "Bounty Hunter"
+    },
+    "Deprogrammer": {
+      "name": "Deprogrammer"
+    },
+    "Swim": {
+      "name": "水泳",
+      "skillName": "水泳"
+    },
+    "Fisherman": {
+      "name": "Fisherman"
+    },
+    "Lawyer": {
+      "name": "Lawyer"
+    },
+    "Unskilled Laborer": {
+      "name": "Unskilled Laborer"
+    },
+    "Pilot (Balloon)": {
+      "name": "操縦 (Balloon)",
+      "specialization": "操縦"
+    },
+    "Hobo": {
+      "name": "Hobo"
+    },
+    "Waitress/Waiter": {
+      "name": "Waitress/Waiter"
+    },
+    "Pilot (Boat)": {
+      "name": "操縦 (Boat)",
+      "specialization": "操縦"
+    },
+    "Firearms (Rifle/Blunderbuss)": {
+      "name": "射撃 (Rifle/Blunderbuss)",
+      "specialization": "射撃",
+      "skillName": "Rifle/Blunderbuss"
+    },
+    "Computer Use": {
+      "name": "コンピューター",
+      "skillName": "コンピューター"
+    },
+    "Firearms (Artillery)": {
+      "name": "射撃 (Artillery)",
+      "specialization": "射撃",
+      "skillName": "射撃 (Artillery)"
+    },
+    "Clairvoyance": {
+      "name": "Clairvoyance"
+    },
+    "Criminal, Housebreaker (“Cracksman”)": {
+      "name": "Criminal, Housebreaker (“Cracksman”)"
+    },
+    "Photographer": {
+      "name": "Photographer"
+    },
+    "Demolitions": {
+      "name": "爆破",
+      "skillName": "爆破"
+    },
+    "Two-Fisted": {
+      "name": "Two-Fisted"
+    },
+    "Drive Horse / Oxen": {
+      "name": "Drive Horse / Oxen"
+    },
+    "Jump": {
+      "name": "跳躍",
+      "skillName": "跳躍"
+    },
+    "Guard": {
+      "name": "Guard"
+    },
+    "Drive Auto": {
+      "name": "運転 (自動車)",
+      "specialization": "運転",
+      "skillName": "自動車"
+    },
+    "Barmaid": {
+      "name": "Barmaid"
+    },
+    "Fighting (Lance)": {
+      "name": "近接戦闘 (槍)",
+      "specialization": "近接戦闘",
+      "skillName": "槍"
+    },
+    "Art/Craft (Leather Worker)": {
+      "name": "芸術／製作 (Leather Worker)",
+      "specialization": "芸術／製作"
+    },
+    "Art/Craft (Singer)": {
+      "name": "芸術／製作 (Singer)",
+      "specialization": "芸術／製作"
+    },
+    "Rope Use": {
+      "name": "Rope Use"
+    },
+    "Actor, Film": {
+      "name": "Actor, Film"
+    },
+    "Survival (Street)": {
+      "name": "サバイバル (Street)",
+      "specialization": "サバイバル"
+    },
+    "Art/Craft (Brewer)": {
+      "name": "芸術／製作 (Brewer)",
+      "specialization": "芸術／製作"
+    },
+    "Wrestler": {
+      "name": "Wrestler"
+    },
+    "Professor": {
+      "name": "Professor"
+    },
+    "Undertaker": {
+      "name": "Undertaker"
+    },
+    "Ex-Military Officer": {
+      "name": "Ex-Military Officer"
+    },
+    "Ex-Military Enlisted/NCO": {
+      "name": "Ex-Military Enlisted/NCO"
+    },
+    "Carpenter": {
+      "name": "Carpenter"
+    },
+    "Science (Cryptography)": {
+      "name": "科学 (Cryptography)",
+      "specialization": "科学"
+    },
+    "First Aid": {
+      "name": "応急手当",
+      "skillName": "応急手当"
+    },
+    "Salesperson": {
+      "name": "Salesperson"
+    },
+    "Blacksmith": {
+      "name": "Blacksmith"
+    },
+    "Juggler": {
+      "name": "Juggler"
+    },
+    "Musician, Working Class": {
+      "name": "Musician, Working Class"
+    },
+    "Inventor": {
+      "name": "Inventor"
+    },
+    "Yogi": {
+      "name": "Yogi"
+    },
+    "Dodge": {
+      "name": "回避",
+      "skillName": "回避"
+    },
+    "Diving": {
+      "name": "ダイビング",
+      "skillName": "ダイビング"
+    },
+    "Pilgrim": {
+      "name": "Pilgrim"
+    },
+    "Assassin": {
+      "name": "Assassin"
+    },
+    "Science (Physics)": {
+      "name": "科学 (Physics)",
+      "specialization": "科学"
+    },
+    "Art/Craft (Cooper)": {
+      "name": "芸術／製作 (Cooper)",
+      "specialization": "芸術／製作"
+    },
+    "Gentlewoman": {
+      "name": "Gentlewoman"
+    },
+    "Adventurer": {
+      "name": "Adventurer"
+    },
+    "Investigative Journalist": {
+      "name": "Investigative Journalist"
+    },
+    "Fighting (Throw)": {
+      "name": "投擲",
+      "specialization": "",
+      "skillName": "投擲"
+    },
+    "1920's Setup": {
+      "name": "1920's Setup"
+    },
+    "Laborer": {
+      "name": "Laborer"
+    },
+    "Science (Rhetoric)": {
+      "name": "科学 (Rhetoric)",
+      "specialization": "科学"
+    },
+    "Athlete": {
+      "name": "Athlete"
+    },
+    "Pub Landlord": {
+      "name": "Pub Landlord"
+    },
+    "Serving Soldier Officer": {
+      "name": "Serving Soldier Officer"
+    },
+    "Police Detective": {
+      "name": "Police Detective"
+    },
+    "Nurse": {
+      "name": "Nurse"
+    },
+    "Alienism": {
+      "name": "Alienism"
+    },
+    "Art/Craft (Short Hand)": {
+      "name": "芸術／製作 (Short Hand)",
+      "specialization": "芸術／製作"
+    },
+    "Reassure": {
+      "name": "Reassure"
+    },
+    "Physician": {
+      "name": "Physician"
+    },
+    "Acrobat": {
+      "name": "Acrobat"
+    },
+    "Ranger": {
+      "name": "Ranger"
+    },
+    "Scientist": {
+      "name": "Scientist"
+    },
+    "Gangster, Underling": {
+      "name": "Gangster, Underling"
+    },
+    "Chimney Sweep": {
+      "name": "Chimney Sweep"
+    },
+    "Stonemason": {
+      "name": "Stonemason"
+    },
+    "Dilettante": {
+      "name": "Dilettante"
+    },
+    "Read Lips": {
+      "name": "読唇術",
+      "skillName": "読唇術"
+    },
+    "Charm": {
+      "name": "魅惑",
+      "skillName": "魅惑"
+    },
+    "White-Collar Worker, Clerk/Executive": {
+      "name": "White-Collar Worker, Clerk/Executive"
+    },
+    "Firearms (Submachine Gun)": {
+      "name": "射撃 (サブマシンガン)",
+      "specialization": "射撃",
+      "skillName": "サブマシンガン"
+    },
+    "Missionary": {
+      "name": "Missionary"
+    },
+    "Farmer (Free)": {
+      "name": "Farmer (Free)"
+    },
+    "Driver": {
+      "name": "Driver"
+    },
+    "Sex Worker, Middle Class": {
+      "name": "Sex Worker, Middle Class"
+    },
+    "Science (Chemistry)": {
+      "name": "科学 (Chemistry)",
+      "specialization": "科学"
+    },
+    "Natural World (Any)": {
+      "name": "Natural World (Any)"
+    },
+    "Sailor": {
+      "name": "Sailor"
+    },
+    "Fighting (Flail)": {
+      "name": "近接戦闘 (フレイル)",
+      "specialization": "近接戦闘",
+      "skillName": "フレイル"
+    },
+    "Art/Craft (Apiarist)": {
+      "name": "芸術／製作 (Apiarist)",
+      "specialization": "芸術／製作"
+    },
+    "Gun Moll": {
+      "name": "Gun Moll"
+    },
+    "Psychoanalysis": {
+      "name": "精神分析",
+      "skillName": "精神分析"
+    },
+    "Valet": {
+      "name": "Valet"
+    },
+    "Shopkeeper": {
+      "name": "Shopkeeper"
+    },
+    "Prostitute": {
+      "name": "Prostitute"
+    },
+    "Parapsychologist": {
+      "name": "Parapsychologist"
+    },
+    "Art/Craft (Sculpture)": {
+      "name": "芸術／製作 (Sculpture)",
+      "specialization": "芸術／製作"
+    },
+    "Musician": {
+      "name": "Musician"
+    },
+    "Cult Leader": {
+      "name": "Cult Leader"
+    },
+    "Occult": {
+      "name": "オカルト",
+      "skillName": "オカルト"
+    },
+    "Art/Craft (Domestic Service)": {
+      "name": "芸術／製作 (Domestic Service)",
+      "specialization": "芸術／製作"
+    },
+    "Science (Pharmacy)": {
+      "name": "科学 (Pharmacy)",
+      "specialization": "科学"
+    },
+    "Rogue": {
+      "name": "Rogue"
+    },
+    "Cthulhu Dark Ages Setup": {
+      "name": "Cthulhu Dark Ages Setup"
+    },
+    "Author": {
+      "name": "Author"
+    },
+    "Entertainer": {
+      "name": "Entertainer"
+    },
+    "Teacher": {
+      "name": "Teacher"
+    },
+    "Police Officer": {
+      "name": "Police Officer"
+    },
+    "Editor": {
+      "name": "Editor"
+    },
+    "Fighting (Shovel)": {
+      "name": "近接戦闘 (Shovel)",
+      "specialization": "近接戦闘"
+    },
+    "Student": {
+      "name": "Student"
+    },
+    "Pub Landlady": {
+      "name": "Pub Landlady"
+    },
+    "Lore (Any)": {
+      "name": "Lore (Any)"
+    },
+    "Sleight of Hand": {
+      "name": "手さばき",
+      "skillName": "手さばき"
+    },
+    "Miner": {
+      "name": "Miner"
+    },
+    "Library Use": {
+      "name": "図書館",
+      "skillName": "図書館"
+    },
+    "Spot Hidden": {
+      "name": "目星",
+      "skillName": "目星"
+    },
+    "Taxi Driver": {
+      "name": "Taxi Driver"
+    },
+    "Aviator": {
+      "name": "Aviator"
+    },
+    "Science (Metallurgy)": {
+      "name": "科学 (Metallurgy)",
+      "specialization": "科学"
+    },
+    "Barman": {
+      "name": "Barman"
+    },
+    "Seeker": {
+      "name": "Seeker"
+    },
+    "Mayor": {
+      "name": "Mayor"
+    },
+    "Designer": {
+      "name": "Designer"
+    },
+    "Art/Craft (Farmer)": {
+      "name": "芸術／製作 (Farmer)",
+      "specialization": "芸術／製作"
+    },
+    "Electrical Repair": {
+      "name": "電気修理",
+      "skillName": "電気修理"
+    },
+    "Fighting (Mace)": {
+      "name": "近接戦闘 (Mace)",
+      "specialization": "近接戦闘"
+    },
+    "Divination": {
+      "name": "Divination"
+    },
+    "Hypnosis": {
+      "name": "ヒプノーシス",
+      "skillName": "ヒプノーシス"
+    },
+    "Lumberjack": {
+      "name": "Lumberjack"
+    },
+    "Actor, Stage and Radio": {
+      "name": "Actor, Stage and Radio"
+    },
+    "Servant (Housemaid)": {
+      "name": "Servant (Housemaid)"
+    },
+    "Firefighter": {
+      "name": "Firefighter"
+    },
+    "Language (Own)": {
+      "name": "言語 (母国語)",
+      "specialization": "言語",
+      "skillName": "母国語"
+    },
+    "Sidekick": {
+      "name": "Sidekick"
+    },
+    "Art/Craft (Sweep)": {
+      "name": "芸術／製作 (Sweep)",
+      "specialization": "芸術／製作"
+    },
+    "Art/Craft (Pottery)": {
+      "name": "芸術／製作 (Pottery)",
+      "specialization": "芸術／製作"
+    },
+    "Repair/Devise": {
+      "name": "Repair/Devise"
+    },
+    "Firearms (Any)": {
+      "name": "射撃 (任意)",
+      "specialization": "射撃",
+      "skillName": "任意"
+    },
+    "Gaming": {
+      "name": "Gaming"
+    },
+    "Firearms (Flamethrower)": {
+      "name": "射撃 (Flamethrower)"
+    },
+    "Hacker": {
+      "name": "Hacker"
+    },
+    "Cleric": {
+      "name": "Cleric"
+    },
+    "Mechanical Repair": {
+      "name": "機械修理",
+      "skillName": "機械修理"
+    },
+    "Reporter": {
+      "name": "Reporter"
+    },
+    "Criminal, Screever": {
+      "name": "Criminal, Screever"
+    },
+    "Forensic Surgeon": {
+      "name": "Forensic Surgeon"
+    },
+    "Hospital Orderly": {
+      "name": "Hospital Orderly"
+    },
+    "Art/Craft (Any)": {
+      "name": "芸術／製作 (任意)",
+      "specialization": "芸術／製作",
+      "skillName": "任意"
+    },
+    "Scholar": {
+      "name": "Scholar"
+    },
+    "Astronomy": {
+      "name": "Astronomy"
+    },
+    "Art/Craft (Carpentry)": {
+      "name": "芸術／製作 (Carpentry)",
+      "specialization": "芸術／製作"
+    },
+    "Art/Craft (Musician)": {
+      "name": "芸術／製作 (Musician)",
+      "specialization": "芸術／製作"
+    },
+    "Electrician": {
+      "name": "Electrician"
+    },
+    "Science (Astrology)": {
+      "name": "科学 (Astrology)",
+      "specialization": "科学"
+    },
+    "Language (Other)": {
+      "name": "言語 (Other)",
+      "specialization": "言語"
+    },
+    "Clergy": {
+      "name": "Clergy"
+    },
+    "Bootlegger": {
+      "name": "Bootlegger"
+    },
+    "Sailor Officer": {
+      "name": "Sailor Officer"
+    },
+    "Art/Craft (Woodworker)": {
+      "name": "芸術／製作 (Woodworker)",
+      "specialization": "芸術／製作"
+    },
+    "Criminal, Swindler (“Macer”)": {
+      "name": "Criminal, Swindler (“Macer”)"
+    },
+    "Religion": {
+      "name": "Religion"
+    },
+    "Art/Craft (Technical Drawing)": {
+      "name": "芸術／製作 (Technical Drawing)",
+      "specialization": "芸術／製作"
+    },
+    "Art/Craft (Bowyer)": {
+      "name": "芸術／製作 (Bowyer)",
+      "specialization": "芸術／製作"
+    },
+    "Egghead": {
+      "name": "Egghead"
+    },
+    "Psychology": {
+      "name": "心理学",
+      "skillName": "心理学"
+    },
+    "Antiquarian": {
+      "name": "Antiquarian"
+    },
+    "Serving Soldier Enlisted/NCO": {
+      "name": "Serving Soldier Enlisted/NCO"
+    },
+    "Art/Craft (Cobbler)": {
+      "name": "芸術／製作 (Cobbler)",
+      "specialization": "芸術／製作"
+    },
+    "Fighting (Any)": {
+      "name": "近接戦闘 (任意)",
+      "specialization": "近接戦闘",
+      "skillName": "任意"
+    },
+    "Telekinesis": {
+      "name": "Telekinesis"
+    },
+    "Ride Horse": {
+      "name": "Ride Horse"
+    },
+    "Architect": {
+      "name": "Architect"
+    },
+    "Psychiatrist": {
+      "name": "Psychiatrist"
+    },
+    "Harlequin": {
+      "name": "Harlequin"
+    },
+    "Modern Setup": {
+      "name": "Modern Setup"
+    },
+    "Outdoorsman/woman": {
+      "name": "Outdoorsman/woman"
+    },
+    "Art/Craft (Literature)": {
+      "name": "芸術／製作 (Literature)",
+      "specialization": "芸術／製作"
+    },
+    "Union Activist": {
+      "name": "Union Activist"
+    },
+    "Ranged (Crossbow)": {
+      "name": "Ranged (Crossbow)"
+    },
+    "Marine": {
+      "name": "Marine"
+    },
+    "Priest": {
+      "name": "Priest"
+    },
+    "Police Officer, Detective": {
+      "name": "Police Officer, Detective"
+    },
+    "Dreamer": {
+      "name": "Dreamer"
+    },
+    "Fighting (Brawl)": {
+      "name": "近接戦闘 (格闘)",
+      "specialization": "近接戦闘",
+      "skillName": "格闘"
+    },
+    "Art/Craft (Bellringing)": {
+      "name": "芸術／製作 (Bellringing)",
+      "specialization": "芸術／製作"
+    },
+    "Law": {
+      "name": "法律",
+      "skillName": "法律"
+    },
+    "Engineer": {
+      "name": "Engineer"
+    },
+    "Man or Woman of God": {
+      "name": "Man or Woman of God"
+    },
+    "Down Darker Trails Setup": {
+      "name": "Down Darker Trails Setup"
+    },
+    "Drive Wagon / Carriage": {
+      "name": "Drive Wagon / Carriage"
+    },
+    "Sexton": {
+      "name": "Sexton"
+    },
+    "Drive Carriage / Cart": {
+      "name": "Drive Carriage / Cart"
+    },
+    "Occultist": {
+      "name": "Occultist"
+    },
+    "Pilot (Aircraft)": {
+      "name": "操縦 (Aircraft)",
+      "specialization": "操縦"
+    },
+    "Street Punk": {
+      "name": "Street Punk"
+    },
+    "Kingdom (Own)": {
+      "name": "Kingdom (Own)"
+    },
+    "Lawman": {
+      "name": "Lawman"
+    },
+    "Dancing": {
+      "name": "Dancing"
+    },
+    "Craftspeople": {
+      "name": "Craftspeople"
+    },
+    "Art/Craft (Poetry)": {
+      "name": "芸術／製作 (Poetry)",
+      "specialization": "芸術／製作"
+    },
+    "Librarian": {
+      "name": "Librarian"
+    },
+    "Science (Geometry)": {
+      "name": "科学 (Geometry)",
+      "specialization": "科学"
+    },
+    "Zealot": {
+      "name": "Zealot"
+    },
+    "Firearms (Handgun)": {
+      "name": "射撃 (拳銃)",
+      "specialization": "射撃",
+      "skillName": "拳銃"
+    },
+    "Pilot (Any)": {
+      "name": "操縦 (任意)",
+      "specialization": "操縦",
+      "skillName": "任意"
+    },
+    "Science (Botany)": {
+      "name": "科学 (Botany)",
+      "specialization": "科学"
+    },
+    "Firearms (Musket)": {
+      "name": "射撃 (Musket)"
+    },
+    "Cabbie": {
+      "name": "Cabbie"
+    },
+    "Hermit": {
+      "name": "Hermit"
+    },
+    "Noble": {
+      "name": "Noble"
+    },
+    "Fighting (Sword)": {
+      "name": "近接戦闘 (刀剣)",
+      "specialization": "近接戦闘",
+      "skillName": "刀剣"
+    },
+    "Musician, Middle Class": {
+      "name": "Musician, Middle Class"
+    },
+    "Sergeant": {
+      "name": "Sergeant"
+    },
+    "Survival (Any)": {
+      "name": "サバイバル (任意)",
+      "specialization": "サバイバル",
+      "skillName": "任意"
+    },
+    "Fast Talk": {
+      "name": "言いくるめ",
+      "skillName": "言いくるめ"
+    },
+    "1930's Pulp Setup": {
+      "name": "1930's Pulp Setup"
+    },
+    "Anthropology": {
+      "name": "人類学",
+      "skillName": "人類学"
+    },
+    "Thrill Seeker": {
+      "name": "Thrill Seeker"
+    },
+    "Art/Craft (Smith)": {
+      "name": "芸術／製作 (Smith)",
+      "specialization": "芸術／製作"
+    },
+    "Alienist": {
+      "name": "Alienist"
+    },
+    "Art/Craft (Photography)": {
+      "name": "芸術／製作 (Photography)",
+      "specialization": "芸術／製作"
+    },
+    "Civics": {
+      "name": "Civics"
+    },
+    "Get-Away Driver": {
+      "name": "Get-Away Driver"
+    },
+    "Uniformed Police Officer": {
+      "name": "Uniformed Police Officer"
+    },
+    "Servant (Footman)": {
+      "name": "Servant (Footman)"
+    },
+    "Spy": {
+      "name": "Spy"
+    },
+    "Insight": {
+      "name": "Insight"
+    },
+    "Artist": {
+      "name": "Artist"
+    },
+    "Warrior": {
+      "name": "Warrior"
+    },
+    "Animal Trainer": {
+      "name": "Animal Trainer"
+    },
+    "Beefcake": {
+      "name": "Beefcake"
+    },
+    "Read and Write (Any)": {
+      "name": "Read and Write (Any)"
+    },
+    "Kingdom (Other)": {
+      "name": "Kingdom (Other)"
+    },
+    "Fighting (Chainsaw)": {
+      "name": "近接戦闘 (チェーンソー)",
+      "specialization": "近接戦闘",
+      "skillName": "チェーンソー"
+    },
+    "Sailor, Naval": {
+      "name": "Sailor, Naval"
+    },
+    "Beggar": {
+      "name": "Beggar"
+    },
+    "Outsider": {
+      "name": "Outsider"
+    },
+    "Nurse, Middle Class": {
+      "name": "Nurse, Middle Class"
+    },
+    "Hired Muscle": {
+      "name": "Hired Muscle"
+    },
+    "Nun": {
+      "name": "Nun"
+    },
+    "Criminal (freelance/solo)": {
+      "name": "Criminal (freelance/solo)"
+    },
+    "Fence": {
+      "name": "Fence"
+    },
+    "Accounting": {
+      "name": "経理",
+      "skillName": "経理"
+    },
+    "Itinerant Worker": {
+      "name": "Itinerant Worker"
+    },
+    "Art/Craft (Mosaic)": {
+      "name": "芸術／製作 (Mosaic)",
+      "specialization": "芸術／製作"
+    },
+    "Monk": {
+      "name": "Monk"
+    },
+    "Governess": {
+      "name": "Governess"
+    },
+    "Psychologist": {
+      "name": "Psychologist"
+    },
+    "Electronics": {
+      "name": "電子工学",
+      "skillName": "電子工学"
+    },
+    "Archaeologist": {
+      "name": "Archaeologist"
+    },
+    "Art/Craft (Stonemason)": {
+      "name": "芸術／製作 (Stonemason)",
+      "specialization": "芸術／製作"
+    },
+    "Farmer": {
+      "name": "Farmer"
+    },
+    "Science (Forensics)": {
+      "name": "科学 (Forensics)",
+      "specialization": "科学"
+    },
+    "Criminal, Confidence Trickster (“Magsman”)": {
+      "name": "Criminal, Confidence Trickster (“Magsman”)"
+    },
+    "Ranged (Bow)": {
+      "name": "Ranged (Bow)"
+    },
+    "Art/Craft (Jeweler)": {
+      "name": "芸術／製作 (Jeweler)",
+      "specialization": "芸術／製作"
+    },
+    "Waitress": {
+      "name": "Waitress"
+    },
+    "Federal Agent": {
+      "name": "Federal Agent"
+    },
+    "Science (Engineering)": {
+      "name": "科学 (Engineering)",
+      "specialization": "科学"
+    },
+    "Elected Official": {
+      "name": "Elected Official"
+    },
+    "Fighting (Spear)": {
+      "name": "近接戦闘 (槍)",
+      "specialization": "近接戦闘",
+      "skillName": "槍"
+    },
+    "Science (Augury)": {
+      "name": "科学 (Augury)",
+      "specialization": "科学"
+    },
+    "Criminal, Con Artist (“Shofulman”)": {
+      "name": "Criminal, Con Artist (“Shofulman”)"
+    },
+    "Fighting (Staff)": {
+      "name": "近接戦闘 (Staff)",
+      "specialization": "近接戦闘"
+    },
+    "Criminal, Lockpicker (“Screwsman”)": {
+      "name": "Criminal, Lockpicker (“Screwsman”)"
+    },
+    "Track": {
+      "name": "追跡",
+      "skillName": "追跡"
+    },
+    "Expressman/Expresswoman": {
+      "name": "Expressman/Expresswoman"
+    },
+    "Navvy": {
+      "name": "Navvy"
+    },
+    "Cowboy/girl": {
+      "name": "Cowboy/girl"
+    },
+    "Reign Of Terror Setup": {
+      "name": "Reign Of Terror Setup"
+    },
+    "Actor, Stage": {
+      "name": "Actor, Stage"
+    },
+    "Science (Arithmetic)": {
+      "name": "科学 (Arithmetic)",
+      "specialization": "科学"
+    },
+    "Swashbuckler": {
+      "name": "Swashbuckler"
+    },
+    "Femme Fatale": {
+      "name": "Femme Fatale"
+    },
+    "Bon Vivant": {
+      "name": "Bon Vivant"
+    },
+    "Write Language": {
+      "name": "Write Language"
+    },
+    "Museum Curator": {
+      "name": "Museum Curator"
+    },
+    "Criminal, (“Swell-mob”) Member Of Street Gang": {
+      "name": "Criminal, (“Swell-mob”) Member Of Street Gang"
+    },
+    "Greenhorn": {
+      "name": "Greenhorn"
+    },
+    "Fighting (Garrote)": {
+      "name": "近接戦闘 (Garrote)",
+      "specialization": "近接戦闘"
+    },
+    "Researcher": {
+      "name": "Researcher"
+    },
+    "Beat Cop": {
+      "name": "Beat Cop"
+    },
+    "Art/Craft (Writing)": {
+      "name": "芸術／製作 (Writing)",
+      "specialization": "芸術／製作"
+    },
+    "Navigate": {
+      "name": "ナビゲート",
+      "skillName": "ナビゲート"
+    },
+    "Art/Craft (Weaver)": {
+      "name": "芸術／製作 (Weaver)",
+      "specialization": "芸術／製作"
+    },
+    "Survival (Sea)": {
+      "name": "サバイバル (Sea)",
+      "specialization": "サバイバル"
+    },
+    "Mercenary": {
+      "name": "Mercenary"
+    },
+    "Medicine": {
+      "name": "医学",
+      "skillName": "医学"
+    },
+    "Brigand": {
+      "name": "Brigand"
+    },
+    "Listen": {
+      "name": "聞き耳",
+      "skillName": "聞き耳"
+    },
+    "Drifter": {
+      "name": "Drifter"
+    },
+    "Forger": {
+      "name": "Forger"
+    },
+    "Appraise": {
+      "name": "鑑定",
+      "skillName": "鑑定"
+    },
+    "Art/Craft (Fresco)": {
+      "name": "芸術／製作 (Fresco)",
+      "specialization": "芸術／製作"
+    },
+    "Hard Boiled": {
+      "name": "Hard Boiled"
+    },
+    "Persuade": {
+      "name": "説得",
+      "skillName": "説得"
+    },
+    "Explorer": {
+      "name": "Explorer"
+    },
+    "Regency Cthulhu Pulp Setup": {
+      "name": "Regency Cthulhu Pulp Setup"
+    },
+    "Mystic": {
+      "name": "Mystic"
+    },
+    "Science (Geology)": {
+      "name": "科学 (Geology)",
+      "specialization": "科学"
+    },
+    "Criminal, Generic (“Gonoph”)": {
+      "name": "Criminal, Generic (“Gonoph”)"
+    },
+    "Skill Trader": {
+      "name": "Skill Trader"
+    },
+    "Credit Rating": {
+      "name": "信用",
+      "skillName": "信用"
+    },
+    "Fighting (Shield)": {
+      "name": "近接戦闘 (Shield)",
+      "specialization": "近接戦闘"
+    },
+    "Language (Latin)": {
+      "name": "言語 (ラテン語)",
+      "specialization": "言語",
+      "skillName": "ラテン語"
+    },
+    "Police Officer, Constable": {
+      "name": "Police Officer, Constable"
+    },
+    "Psychometry": {
+      "name": "Psychometry"
+    },
+    "Inquiry Agent": {
+      "name": "Inquiry Agent"
+    },
+    "Lady’s Maid": {
+      "name": "Lady’s Maid"
+    },
+    "Criminal, Robber (“Rampsman”)": {
+      "name": "Criminal, Robber (“Rampsman”)"
+    },
+    "Art/Craft (Cooking)": {
+      "name": "芸術／製作 (Cooking)",
+      "specialization": "芸術／製作"
+    },
+    "Tactics": {
+      "name": "Tactics"
+    },
+    "Tribe Member": {
+      "name": "Tribe Member"
+    },
+    "Smuggler": {
+      "name": "Smuggler"
+    },
+    "Nurse, Working Class": {
+      "name": "Nurse, Working Class"
+    },
+    "Etiquette": {
+      "name": "Etiquette"
+    },
+    "Cthulhu Dark Ages Pulp Setup": {
+      "name": "Cthulhu Dark Ages Pulp Setup"
+    },
+    "Hunter": {
+      "name": "Hunter"
+    },
+    "Archaeology": {
+      "name": "考古学",
+      "skillName": "考古学"
+    },
+    "Art/Craft (Orate)": {
+      "name": "芸術／製作 (Orate)",
+      "specialization": "芸術／製作"
+    },
+    "Warrior (Free)": {
+      "name": "Warrior (Free)"
+    },
+    "Modern Pulp Setup": {
+      "name": "Modern Pulp Setup"
+    },
+    "Sailor Enlisted/NCO": {
+      "name": "Sailor Enlisted/NCO"
+    },
+    "Household Officer": {
+      "name": "Household Officer"
+    },
+    "Down Darker Trails Pulp Setup": {
+      "name": "Down Darker Trails Pulp Setup"
+    },
+    "Ranged (War Engine)": {
+      "name": "Ranged (War Engine)"
+    },
+    "Agency Detective": {
+      "name": "Agency Detective"
+    },
+    "Firearms (Pistol)": {
+      "name": "射撃 (Pistol)"
+    },
+    "Firearms (Machine Gun)": {
+      "name": "射撃 (マシンガン)",
+      "specialization": "射撃",
+      "skillName": "マシンガン"
+    },
+    "Art/Craft (Chalk Art)": {
+      "name": "芸術／製作 (Chalk Art)",
+      "specialization": "芸術／製作"
+    },
+    "Science (Grammar)": {
+      "name": "科学 (Grammar)",
+      "specialization": "科学"
+    },
+    "Sans-culotte": {
+      "name": "Sans-culotte"
+    },
+    "Cunning Man/Woman": {
+      "name": "Cunning Man/Woman"
+    },
+    "Science (Meteorology)": {
+      "name": "科学 (Meteorology)",
+      "specialization": "科学"
+    },
+    "Fashion": {
+      "name": "Fashion"
+    },
+    "Computer Technician": {
+      "name": "Computer Technician"
+    },
+    "Bartender": {
+      "name": "Bartender"
+    },
+    "Hit Man/Woman": {
+      "name": "Hit Man/Woman"
+    },
+    "Ranged (Any)": {
+      "name": "Ranged (Any)"
+    },
+    "Shop Keeper": {
+      "name": "Shop Keeper"
+    },
+    "Repair": {
+      "name": "Repair"
+    },
+    "Lady": {
+      "name": "Lady"
+    },
+    "Stuntman": {
+      "name": "Stuntman"
+    },
+    "Criminal": {
+      "name": "Criminal"
+    },
+    "Sailor, Commercial": {
+      "name": "Sailor, Commercial"
+    },
+    "Art/Craft (Embroidery)": {
+      "name": "芸術／製作 (Embroidery)",
+      "specialization": "芸術／製作"
+    },
+    "Science (Biology)": {
+      "name": "科学 (Biology)",
+      "specialization": "科学"
+    },
+    "Operate Heavy Machinery": {
+      "name": "重機械操作",
+      "skillName": "重機械操作"
+    },
+    "Adventuress": {
+      "name": "Adventuress"
+    },
+    "Fighting (Axe)": {
+      "name": "近接戦闘 (斧)",
+      "specialization": "近接戦闘",
+      "skillName": "斧"
+    },
+    "Book Dealer": {
+      "name": "Book Dealer"
+    },
+    "Boxer": {
+      "name": "Boxer"
+    },
+    "Hooker": {
+      "name": "Hooker"
+    },
+    "Gambling": {
+      "name": "Gambling"
+    },
+    "Science (Dialectic)": {
+      "name": "科学 (Dialectic)",
+      "specialization": "科学"
+    },
+    "Locksmith": {
+      "name": "鍵開け",
+      "skillName": "鍵開け"
+    },
+    "Art/Craft (Painting)": {
+      "name": "芸術／製作 (Painting)",
+      "specialization": "芸術／製作"
+    },
+    "Steadfast": {
+      "name": "Steadfast"
+    },
+    "Firearms (Bow)": {
+      "name": "射撃 (弓)",
+      "specialization": "射撃",
+      "skillName": "弓"
+    },
+    "Science (Architecture)": {
+      "name": "科学 (Architecture)",
+      "specialization": "科学"
+    },
+    "Criminal, Footpad": {
+      "name": "Criminal, Footpad"
+    },
+    "Policeman (Foot)": {
+      "name": "Policeman (Foot)"
+    },
+    "Thug": {
+      "name": "Thug"
+    },
+    "Cthulhu by Gaslight Pulp Setup": {
+      "name": "Cthulhu by Gaslight Pulp Setup"
+    },
+    "Judge": {
+      "name": "Judge"
+    },
+    "Mountain Climber": {
+      "name": "Mountain Climber"
+    },
+    "Animal Training": {
+      "name": "Animal Training"
+    },
+    "Read and Write (Latin)": {
+      "name": "Read and Write (Latin)"
+    },
+    "Maid": {
+      "name": "Maid"
+    },
+    "Politician": {
+      "name": "Politician"
+    },
+    "Science (Mathematics)": {
+      "name": "科学 (Mathematics)",
+      "specialization": "科学"
+    },
+    "Diver": {
+      "name": "Diver"
+    },
+    "Art/Craft (Sewing)": {
+      "name": "芸術／製作 (Sewing)",
+      "specialization": "芸術／製作"
+    },
+    "Pilot": {
+      "name": "Pilot"
+    },
+    "Clergy, Member Of The": {
+      "name": "Clergy, Member Of The"
+    },
+    "Disguise": {
+      "name": "変装",
+      "skillName": "変装"
+    },
+    "Heretic": {
+      "name": "Heretic"
+    },
+    "Doctor of Medicine": {
+      "name": "Doctor of Medicine"
+    },
+    "Cat Burglar": {
+      "name": "Cat Burglar"
+    },
+    "Science (Astronomy)": {
+      "name": "科学 (Astronomy)",
+      "specialization": "科学"
+    },
+    "Bank Robber": {
+      "name": "Bank Robber"
+    },
+    "Intimidate": {
+      "name": "威圧",
+      "skillName": "威圧"
+    },
+    "Burglar": {
+      "name": "Burglar"
+    },
+    "Millwright": {
+      "name": "Millwright"
+    },
+    "Art/Craft (Metal Worker)": {
+      "name": "芸術／製作 (Metal Worker)",
+      "specialization": "芸術／製作"
+    },
+    "Mountain Man or Woman": {
+      "name": "Mountain Man or Woman"
+    },
+    "Intern": {
+      "name": "Intern"
+    },
+    "Art/Craft (Potions)": {
+      "name": "芸術／製作 (Potions)",
+      "specialization": "芸術／製作"
+    },
+    "Big Game Hunter": {
+      "name": "Big Game Hunter"
+    },
+    "Criminal, Member Of Street Gang": {
+      "name": "Criminal, Member Of Street Gang"
+    },
+    "Peasant": {
+      "name": "Peasant"
+    },
+    "Mesmerism": {
+      "name": "Mesmerism"
+    },
+    "Art/Craft (Typing)": {
+      "name": "芸術／製作 (Typing)",
+      "specialization": "芸術／製作"
+    },
+    "Trap": {
+      "name": "Trap"
+    },
+    "History": {
+      "name": "歴史",
+      "skillName": "歴史"
+    },
+    "Art/Craft (Acting)": {
+      "name": "芸術／製作 (演劇)",
+      "specialization": "芸術／製作",
+      "skillName": "演劇"
+    },
+    "Art/Craft (Dancer)": {
+      "name": "芸術／製作 (Dancer)",
+      "specialization": "芸術／製作"
+    },
+    "Science (Any)": {
+      "name": "科学 (任意)",
+      "specialization": "科学",
+      "skillName": "任意"
+    },
+    "Stealth": {
+      "name": "隠密",
+      "skillName": "隠密"
+    },
+    "Fighting (Whip)": {
+      "name": "近接戦闘 (むち)",
+      "specialization": "近接戦闘",
+      "skillName": "むち"
+    },
+    "Chauffeur": {
+      "name": "Chauffeur"
+    },
+    "Gravedigger": {
+      "name": "Gravedigger"
+    },
+    "Gunfighter": {
+      "name": "Gunfighter"
+    },
+    "Natural Philosophy": {
+      "name": "Natural Philosophy"
+    },
+    "Science (Philosophy/Religion)": {
+      "name": "科学 (Philosophy/Religion)",
+      "specialization": "科学"
+    },
+    "Policeman (Mounted)": {
+      "name": "Policeman (Mounted)"
+    },
+    "Board School Teacher": {
+      "name": "Board School Teacher"
+    },
+    "Science (Music)": {
+      "name": "科学 (Music)",
+      "specialization": "科学"
+    },
+    "Sex Worker, Working Class": {
+      "name": "Sex Worker, Working Class"
+    },
+    "Gangster, Boss": {
+      "name": "Gangster, Boss"
+    },
+    "Art/Craft (Bone and Horn Worker)": {
+      "name": "芸術／製作 (Bone and Horn Worker)",
+      "specialization": "芸術／製作"
+    },
+    "Scout": {
+      "name": "Scout"
+    },
+    "Private Investigator": {
+      "name": "Private Investigator"
+    },
+    "Art/Craft (Blacksmithing)": {
+      "name": "芸術／製作 (Blacksmithing)",
+      "specialization": "芸術／製作"
+    },
+    "Exorcist": {
+      "name": "Exorcist"
+    },
+    "Art/Craft (Cartographer)": {
+      "name": "芸術／製作 (Cartographer)",
+      "specialization": "芸術／製作"
+    },
+    "Science (Zoology)": {
+      "name": "科学 (Zoology)",
+      "specialization": "科学"
+    },
+    "Minstrel": {
+      "name": "Minstrel"
+    },
+    "Psychic": {
+      "name": "Psychic"
+    },
+    "Zookeeper": {
+      "name": "Zookeeper"
+    },
+    "Woodsman": {
+      "name": "Woodsman"
+    },
+    "Firearms (Rifle/Shotgun)": {
+      "name": "射撃 (ライフル／ショットガン)",
+      "specialization": "射撃",
+      "skillName": "ライフル／ショットガン"
+    },
+    "Art/Craft (Bas-relief)": {
+      "name": "芸術／製作 (Bas-relief)",
+      "specialization": "芸術／製作"
+    },
+    "Computer Programmer": {
+      "name": "Computer Programmer"
+    },
+    "Empire": {
+      "name": "Empire"
+    }
+  }
+}

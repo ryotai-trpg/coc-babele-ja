@@ -1,0 +1,68 @@
+{
+  "label": "アーティファクトと異界のテクノロジー | JA, EN",
+  "folders": {
+    "Artifacts and Alien Devices": "アーティファクトと異界のテクノロジー"
+  },
+  "entries": {
+    "Bio-Web Armor": {
+      "name": "バイオ装甲"
+    },
+    "Black Lotus Powder": {
+      "name": "黒い蓮の粉末"
+    },
+    "Brain Cylinder": {
+      "name": "円筒状の脳収容器"
+    },
+    "Carotid Toxin": {
+      "name": "頸動脈への毒"
+    },
+    "Crystal of the Elder Things": {
+      "name": "古のものの水晶"
+    },
+    "Crystallizer of Dreams": {
+      "name": "夢の結晶器"
+    },
+    "Domination Serum": {
+      "name": "支配血清"
+    },
+    "Earthquake Mining Machine": {
+      "name": "地震採掘装置"
+    },
+    "Electric Gun": {
+      "name": "電気銃"
+    },
+    "Glass from Leng": {
+      "name": "レンのガラス"
+    },
+    "Lamp of Alhazred": {
+      "name": "アルハザードのランプ"
+    },
+    "Lightning Gun": {
+      "name": "電撃銃"
+    },
+    "Mist Projector": {
+      "name": "噴霧器"
+    },
+    "Plutonian Drug": {
+      "name": "冥王星の薬"
+    },
+    "Shining Trapezohedron": {
+      "name": "輝くトラペゾヘドロン"
+    },
+    "Star Stones of Mnar": {
+      "name": "ムナールの星石"
+    },
+    "Stasis Cube": {
+      "name": "停滞キューブ"
+    },
+    "Tabula Rasa Device": {
+      "name": "精神空白装置"
+    },
+    "Temporal Communicator": {
+      "name": "時間通信機"
+    },
+    "The Great White Space": {
+      "name": "大白色空間"
+    }
+  }
+}

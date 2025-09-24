@@ -1,0 +1,30 @@
+{
+  "label": "Items Examples",
+  "folders": {},
+  "entries": {
+    "1920's Setup Example": {
+      "name": "1920's Setup Example"
+    },
+    "Death ray (prototype)": {
+      "name": "Death ray (prototype)"
+    },
+    "Experimental weapon": {
+      "name": "Experimental weapon"
+    },
+    "Peacemaker": {
+      "name": "Peacemaker"
+    },
+    "Punch": {
+      "name": "Punch"
+    },
+    "Street Vendor": {
+      "name": "Street Vendor"
+    },
+    "Talent 1": {
+      "name": "Talent 1"
+    },
+    "Talent 2": {
+      "name": "Talent 2"
+    }
+  }
+}

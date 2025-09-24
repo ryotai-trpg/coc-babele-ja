@@ -1,0 +1,402 @@
+{
+  "label": "Occupations | EN",
+  "folders": {},
+  "entries": {
+    "Accountant": {
+      "name": "Accountant"
+    },
+    "Acrobat": {
+      "name": "Acrobat"
+    },
+    "Actor, Film Star": {
+      "name": "Actor, Film Star"
+    },
+    "Actor, Stage and Radio": {
+      "name": "Actor, Stage and Radio"
+    },
+    "Agency Detective": {
+      "name": "Agency Detective"
+    },
+    "Alienist": {
+      "name": "Alienist"
+    },
+    "Animal Trainer": {
+      "name": "Animal Trainer"
+    },
+    "Antiquarian": {
+      "name": "Antiquarian"
+    },
+    "Antique Dealer": {
+      "name": "Antique Dealer"
+    },
+    "Archaeologist": {
+      "name": "Archaeologist"
+    },
+    "Architect": {
+      "name": "Architect"
+    },
+    "Artist": {
+      "name": "Artist"
+    },
+    "Assassin": {
+      "name": "Assassin"
+    },
+    "Asylum Attendant": {
+      "name": "Asylum Attendant"
+    },
+    "Athlete": {
+      "name": "Athlete"
+    },
+    "Author": {
+      "name": "Author"
+    },
+    "Aviator": {
+      "name": "Aviator"
+    },
+    "Bank Robber": {
+      "name": "Bank Robber"
+    },
+    "Bartender": {
+      "name": "Bartender"
+    },
+    "Big Game Hunter": {
+      "name": "Big Game Hunter"
+    },
+    "Book Dealer": {
+      "name": "Book Dealer"
+    },
+    "Bootlegger": {
+      "name": "Bootlegger"
+    },
+    "Bounty Hunter": {
+      "name": "Bounty Hunter"
+    },
+    "Boxer": {
+      "name": "Boxer"
+    },
+    "Burglar": {
+      "name": "Burglar"
+    },
+    "Butler": {
+      "name": "Butler"
+    },
+    "Carpenter": {
+      "name": "Carpenter"
+    },
+    "Chauffeur": {
+      "name": "Chauffeur"
+    },
+    "Clergy, Member Of The": {
+      "name": "Clergy, Member Of The"
+    },
+    "Computer Programmer": {
+      "name": "Computer Programmer"
+    },
+    "Computer Technician": {
+      "name": "Computer Technician"
+    },
+    "Conman": {
+      "name": "Conman"
+    },
+    "Counterfeiter": {
+      "name": "Counterfeiter"
+    },
+    "Cowboy/girl": {
+      "name": "Cowboy/girl"
+    },
+    "Craftsperson": {
+      "name": "Craftsperson"
+    },
+    "Criminal (freelance/solo)": {
+      "name": "Criminal (freelance/solo)"
+    },
+    "Cult Leader": {
+      "name": "Cult Leader"
+    },
+    "Deprogrammer": {
+      "name": "Deprogrammer"
+    },
+    "Designer": {
+      "name": "Designer"
+    },
+    "Dilettante": {
+      "name": "Dilettante"
+    },
+    "Diver": {
+      "name": "Diver"
+    },
+    "Doctor of Medicine": {
+      "name": "Doctor of Medicine"
+    },
+    "Drifter": {
+      "name": "Drifter"
+    },
+    "Driver": {
+      "name": "Driver"
+    },
+    "Editor": {
+      "name": "Editor"
+    },
+    "Elected Official": {
+      "name": "Elected Official"
+    },
+    "Electrician": {
+      "name": "Electrician"
+    },
+    "Engineer": {
+      "name": "Engineer"
+    },
+    "Entertainer": {
+      "name": "Entertainer"
+    },
+    "Explorer": {
+      "name": "Explorer"
+    },
+    "Farmer": {
+      "name": "Farmer"
+    },
+    "Federal Agent": {
+      "name": "Federal Agent"
+    },
+    "Fence": {
+      "name": "Fence"
+    },
+    "Firefighter": {
+      "name": "Firefighter"
+    },
+    "Foreign Correspondent": {
+      "name": "Foreign Correspondent"
+    },
+    "Forensic Surgeon": {
+      "name": "Forensic Surgeon"
+    },
+    "Forger": {
+      "name": "Forger"
+    },
+    "Gambler": {
+      "name": "Gambler"
+    },
+    "Gangster, Boss": {
+      "name": "Gangster, Boss"
+    },
+    "Gangster, Underling": {
+      "name": "Gangster, Underling"
+    },
+    "Gentleman": {
+      "name": "Gentleman"
+    },
+    "Gun Moll": {
+      "name": "Gun Moll"
+    },
+    "Hacker": {
+      "name": "Hacker"
+    },
+    "Hobo": {
+      "name": "Hobo"
+    },
+    "Hospital Orderly": {
+      "name": "Hospital Orderly"
+    },
+    "Intern": {
+      "name": "Intern"
+    },
+    "Journalist": {
+      "name": "Journalist"
+    },
+    "Judge": {
+      "name": "Judge"
+    },
+    "Laboratory Assistant": {
+      "name": "Laboratory Assistant"
+    },
+    "Laborer": {
+      "name": "Laborer"
+    },
+    "Lady": {
+      "name": "Lady"
+    },
+    "Lawyer": {
+      "name": "Lawyer"
+    },
+    "Librarian": {
+      "name": "Librarian"
+    },
+    "Lumberjack": {
+      "name": "Lumberjack"
+    },
+    "Maid": {
+      "name": "Maid"
+    },
+    "Marine": {
+      "name": "Marine"
+    },
+    "Mechanic": {
+      "name": "Mechanic"
+    },
+    "Military Officer": {
+      "name": "Military Officer"
+    },
+    "Millwright": {
+      "name": "Millwright"
+    },
+    "Miner": {
+      "name": "Miner"
+    },
+    "Missionary": {
+      "name": "Missionary"
+    },
+    "Mountain Climber": {
+      "name": "Mountain Climber"
+    },
+    "Museum Curator": {
+      "name": "Museum Curator"
+    },
+    "Musician": {
+      "name": "Musician"
+    },
+    "Nurse": {
+      "name": "Nurse"
+    },
+    "Occultist": {
+      "name": "Occultist"
+    },
+    "Outdoorsman/woman": {
+      "name": "Outdoorsman/woman"
+    },
+    "Parapsychologist": {
+      "name": "Parapsychologist"
+    },
+    "Pharmacist": {
+      "name": "Pharmacist"
+    },
+    "Photographer": {
+      "name": "Photographer"
+    },
+    "Photojournalist": {
+      "name": "Photojournalist"
+    },
+    "Pilot": {
+      "name": "Pilot"
+    },
+    "Plumber": {
+      "name": "Plumber"
+    },
+    "Police Detective": {
+      "name": "Police Detective"
+    },
+    "Police Officer": {
+      "name": "Police Officer"
+    },
+    "Private Investigator": {
+      "name": "Private Investigator"
+    },
+    "Professor": {
+      "name": "Professor"
+    },
+    "Prospector": {
+      "name": "Prospector"
+    },
+    "Prostitute": {
+      "name": "Prostitute"
+    },
+    "Psychiatrist": {
+      "name": "Psychiatrist"
+    },
+    "Psychoanalyst": {
+      "name": "Psychoanalyst"
+    },
+    "Psychologist": {
+      "name": "Psychologist"
+    },
+    "Reporter": {
+      "name": "Reporter"
+    },
+    "Researcher": {
+      "name": "Researcher"
+    },
+    "Sailor, Commercial": {
+      "name": "Sailor, Commercial"
+    },
+    "Sailor, Naval": {
+      "name": "Sailor, Naval"
+    },
+    "Salesperson": {
+      "name": "Salesperson"
+    },
+    "Scientist": {
+      "name": "Scientist"
+    },
+    "Secretary": {
+      "name": "Secretary"
+    },
+    "Shopkeeper": {
+      "name": "Shopkeeper"
+    },
+    "Skill Trader": {
+      "name": "Skill Trader"
+    },
+    "Smuggler": {
+      "name": "Smuggler"
+    },
+    "Soldier": {
+      "name": "Soldier"
+    },
+    "Spy": {
+      "name": "Spy"
+    },
+    "Stonemason": {
+      "name": "Stonemason"
+    },
+    "Street Punk": {
+      "name": "Street Punk"
+    },
+    "Student": {
+      "name": "Student"
+    },
+    "Stuntman": {
+      "name": "Stuntman"
+    },
+    "Taxi Driver": {
+      "name": "Taxi Driver"
+    },
+    "Thug": {
+      "name": "Thug"
+    },
+    "Tribe Member": {
+      "name": "Tribe Member"
+    },
+    "Undertaker": {
+      "name": "Undertaker"
+    },
+    "Uniformed Police Officer": {
+      "name": "Uniformed Police Officer"
+    },
+    "Union Activist": {
+      "name": "Union Activist"
+    },
+    "Valet": {
+      "name": "Valet"
+    },
+    "Waiter": {
+      "name": "Waiter"
+    },
+    "Waitress": {
+      "name": "Waitress"
+    },
+    "White-Collar Worker, Clerk/Executive": {
+      "name": "White-Collar Worker, Clerk/Executive"
+    },
+    "White-Collar Worker, Middle/Senior Manager": {
+      "name": "White-Collar Worker, Middle/Senior Manager"
+    },
+    "Wrestler": {
+      "name": "Wrestler"
+    },
+    "Zealot": {
+      "name": "Zealot"
+    },
+    "Zookeeper": {
+      "name": "Zookeeper"
+    }
+  }
+}
