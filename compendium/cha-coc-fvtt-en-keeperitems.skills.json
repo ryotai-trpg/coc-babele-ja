@@ -2,7 +2,8 @@
   "label": "技能 | JA, EN",
   "folders": {},
   "mapping": {
-    "skillName": "system.skillName"
+    "skillName": "system.skillName",
+    "specialization": "system.specialization"
   },
   "entries": {
     "Accounting": {
@@ -26,19 +27,29 @@
       "skillName": "考古学"
     },
     "Art/Craft (Acting)": {
-      "name": "芸術／製作 (Acting)"
+      "name": "芸術／製作 (演劇)",
+      "specialization": "芸術／製作",
+      "skillName": "演劇"
     },
     "Art/Craft (Any)": {
-      "name": "芸術／製作 (Any)"
+      "name": "芸術／製作 (任意)",
+      "specialization": "芸術／製作",
+      "skillName": "任意"
     },
     "Art/Craft (Fine Art)": {
-      "name": "芸術／製作 (Fine Art)"
+      "name": "芸術／製作 (絵画)",
+      "specialization": "芸術／製作",
+      "skillName": "絵画"
     },
     "Art/Craft (Forgery)": {
-      "name": "芸術／製作 (Forgery)"
+      "name": "芸術／製作 (文書偽造)",
+      "specialization": "芸術／製作",
+      "skillName": "文書偽造"
     },
     "Art/Craft (Photography)": {
-      "name": "芸術／製作 (Photography)"
+      "name": "芸術／製作 (写真術)",
+      "specialization": "芸術／製作",
+      "skillName": "写真術"
     },
     "Charm": {
       "name": "魅惑",
@@ -93,61 +104,99 @@
       "skillName": "言いくるめ"
     },
     "Fighting (Any)": {
-      "name": "近接戦闘 (Any)"
+      "name": "近接戦闘 (任意)",
+      "specialization": "近接戦闘",
+      "skillName": "任意"
     },
     "Fighting (Axe)": {
-      "name": "近接戦闘 (Axe)"
+      "name": "近接戦闘 (斧)",
+      "specialization": "近接戦闘",
+      "skillName": "斧"
     },
     "Fighting (Brawl)": {
-      "name": "近接戦闘 (Brawl)"
+      "name": "近接戦闘 (格闘)",
+      "specialization": "近接戦闘",
+      "skillName": "格闘"
     },
     "Fighting (Chainsaw)": {
-      "name": "近接戦闘 (Chainsaw)"
+      "name": "近接戦闘 (チェーンソー)",
+      "specialization": "近接戦闘",
+      "skillName": "チェーンソー"
     },
     "Fighting (Flail)": {
-      "name": "近接戦闘 (Flail)"
+      "name": "近接戦闘 (フレイル)",
+      "specialization": "近接戦闘",
+      "skillName": "フレイル"
     },
     "Fighting (Garrote)": {
-      "name": "近接戦闘 (Garrote)"
+      "name": "近接戦闘 (絞殺ひも)",
+      "specialization": "近接戦闘",
+      "skillName": "絞殺ひも"
     },
     "Fighting (Spear)": {
-      "name": "近接戦闘 (Spear)"
+      "name": "近接戦闘 (槍)",
+      "specialization": "近接戦闘",
+      "skillName": "槍"
     },
     "Fighting (Sword)": {
-      "name": "近接戦闘 (Sword)"
+      "name": "近接戦闘 (刀剣)",
+      "specialization": "近接戦闘",
+      "skillName": "刀剣"
     },
     "Fighting (Throw)": {
-      "name": "近接戦闘 (Throw)"
+      "name": "近接戦闘 (投擲)",
+      "specialization": "近接戦闘",
+      "skillName": "投擲"
     },
     "Fighting (Whip)": {
-      "name": "近接戦闘 (Whip)"
+      "name": "近接戦闘 (むち)",
+      "specialization": "近接戦闘",
+      "skillName": "むち"
     },
     "Firearms (Any)": {
-      "name": "射撃 (Any)"
+      "name": "射撃 (任意)",
+      "specialization": "射撃",
+      "skillName": "任意"
     },
     "Firearms (Artillery)": {
-      "name": "射撃 (Artillery)"
+      "name": "射撃 (砲)",
+      "specialization": "射撃",
+      "skillName": "砲"
     },
     "Firearms (Bow)": {
-      "name": "射撃 (Bow)"
+      "name": "射撃 (弓)",
+      "specialization": "射撃",
+      "skillName": "弓"
     },
     "Firearms (Flamethrower)": {
-      "name": "射撃 (Flamethrower)"
+      "name": "射撃 (火炎放射器)",
+      "specialization": "射撃",
+      "skillName": "火炎放射器"
     },
     "Firearms (Handgun)": {
-      "name": "射撃 (Handgun)"
+      "name": "射撃 (拳銃)",
+      "specialization": "射撃",
+      "skillName": "拳銃"
     },
     "Firearms (Heavy Weapons)": {
-      "name": "射撃 (Heavy Weapons)"
+      "name": "射撃 (重火器)",
+      "specialization": "射撃",
+      "skillName": "重火器"
     },
     "Firearms (Machine Gun)": {
-      "name": "射撃 (Machine Gun)"
+      "name": "射撃 (マシンガン)",
+      "specialization": "射撃",
+      "skillName": "マシンガン"
     },
     "Firearms (Rifle/Shotgun)": {
-      "name": "射撃 (Rifle/Shotgun)"
+      "name": "射撃 (ライフル／ショットガン)",
+      "specialization": "射撃",
+      "skillName": "ライフル／ショットガン"
     },
     "Firearms (Submachine Gun)": {
-      "name": "射撃 (Submachine Gun)"
+      "name": "射撃 (サブマシンガン)",
+      "specialization": "射撃",
+      "skillName": "サブマシンガン"
     },
     "First Aid": {
       "name": "応急手当",
@@ -170,37 +219,59 @@
       "skillName": "跳躍"
     },
     "Language (Czech)": {
-      "name": "言語 (Czech)"
+      "name": "言語 (チェコ語)",
+      "specialization": "言語",
+      "skillName": "チェコ語"
     },
     "Language (Dutch)": {
-      "name": "言語 (Dutch)"
+      "name": "言語 (オランダ語)",
+      "specialization": "言語",
+      "skillName": "オランダ語"
     },
     "Language (English)": {
-      "name": "言語 (English)"
+      "name": "言語 (英語)",
+      "specialization": "言語",
+      "skillName": "英語"
     },
     "Language (German)": {
-      "name": "言語 (German)"
+      "name": "言語 (ドイツ語)",
+      "specialization": "言語",
+      "skillName": "ドイツ語"
     },
     "Language (Other)": {
-      "name": "言語 (Other)"
+      "name": "言語 (ほかの言語)",
+      "specialization": "言語",
+      "skillName": "ほかの言語"
     },
     "Language (Own)": {
-      "name": "言語 (Own)"
+      "name": "言語 (母国語)",
+      "specialization": "言語",
+      "skillName": "母国語"
     },
     "Language (Polish)": {
-      "name": "言語 (Polish)"
+      "name": "言語 (ポーランド語)",
+      "specialization": "言語",
+      "skillName": "ポーランド語"
     },
     "Language (Russian)": {
-      "name": "言語 (Russian)"
+      "name": "言語 (ロシア語)",
+      "specialization": "言語",
+      "skillName": "ロシア語"
     },
     "Language (Swahili)": {
-      "name": "言語 (Swahili)"
+      "name": "言語 (スワヒリ語)",
+      "specialization": "言語",
+      "skillName": "スワヒリ語"
     },
     "Language (Yoruba)": {
-      "name": "言語 (Yoruba)"
+      "name": "言語 (ヨルバ語)",
+      "specialization": "言語",
+      "skillName": "ヨルバ語"
     },
     "Language (Zulu)": {
-      "name": "言語 (Zulu)"
+      "name": "言語 (ズール語)",
+      "specialization": "言語",
+      "skillName": "ズール語"
     },
     "Law": {
       "name": "法律",
@@ -219,7 +290,8 @@
       "skillName": "鍵開け"
     },
     "Lore (Any)": {
-      "name": "伝承 (Any)"
+      "name": "伝承 (任意)",
+      "skillName": "伝承 (任意)"
     },
     "Mechanical Repair": {
       "name": "機械修理",
@@ -250,13 +322,19 @@
       "skillName": "説得"
     },
     "Pilot (Aircraft)": {
-      "name": "操縦 (Aircraft)"
+      "name": "操縦 (航空機)",
+      "specialization": "操縦",
+      "skillName": "航空機"
     },
     "Pilot (Any)": {
-      "name": "操縦 (Any)"
+      "name": "操縦 (任意)",
+      "specialization": "操縦",
+      "skillName": "任意"
     },
     "Pilot (Boat)": {
-      "name": "操縦 (Boat)"
+      "name": "操縦 (ボート)",
+      "specialization": "操縦",
+      "skillName": "ボート"
     },
     "Psychoanalysis": {
       "name": "精神分析",
@@ -275,46 +353,74 @@
       "skillName": "乗馬"
     },
     "Science (Any)": {
-      "name": "科学 (Any)"
+      "name": "科学 (任意)",
+      "specialization": "科学",
+      "skillName": "任意"
     },
     "Science (Astronomy)": {
-      "name": "科学 (Astronomy)"
+      "name": "科学 (天文学)",
+      "specialization": "科学",
+      "skillName": "天文学"
     },
     "Science (Biology)": {
-      "name": "科学 (Biology)"
+      "name": "科学 (生物学)",
+      "specialization": "科学",
+      "skillName": "生物学"
     },
     "Science (Botany)": {
-      "name": "科学 (Botany)"
+      "name": "科学 (植物学)",
+      "specialization": "科学",
+      "skillName": "植物学"
     },
     "Science (Chemistry)": {
-      "name": "科学 (Chemistry)"
+      "name": "科学 (化学)",
+      "specialization": "科学",
+      "skillName": "化学"
     },
     "Science (Cryptography)": {
-      "name": "科学 (Cryptography)"
+      "name": "科学 (暗号学)",
+      "specialization": "科学",
+      "skillName": "暗号学"
     },
     "Science (Engineering)": {
-      "name": "科学 (Engineering)"
+      "name": "科学 (工学)",
+      "specialization": "科学",
+      "skillName": "工学"
     },
     "Science (Forensics)": {
-      "name": "科学 (Forensics)"
+      "name": "科学 (法医学)",
+      "specialization": "科学",
+      "skillName": "法医学"
     },
     "Science (Geology)": {
-      "name": "科学 (Geology)"
+      "name": "科学 (地質学)",
+      "specialization": "科学",
+      "skillName": "地質学"
     },
     "Science (Mathematics)": {
-      "name": "科学 (Mathematics)"
+      "name": "科学 (数学)",
+      "specialization": "科学",
+      "skillName": "数学"
     },
     "Science (Meteorology)": {
-      "name": "科学 (Meteorology)"
+      "name": "科学 (気象学)",
+      "specialization": "科学",
+      "skillName": "気象学"
     },
     "Science (Pharmacy)": {
-      "name": "科学 (Pharmacy)"
+      "name": "科学 (薬学)",
+      "specialization": "科学",
+      "skillName": "薬学"
     },
     "Science (Physics)": {
-      "name": "科学 (Physics)"
+      "name": "科学 (物理学)",
+      "specialization": "科学",
+      "skillName": "物理学"
     },
     "Science (Zoology)": {
-      "name": "科学 (Zoology)"
+      "name": "科学 (動物学)",
+      "specialization": "科学",
+      "skillName": "動物学"
     },
     "Sleight of Hand": {
       "name": "手さばき",
@@ -329,22 +435,34 @@
       "skillName": "隠密"
     },
     "Survival (Alpine)": {
-      "name": "サバイバル (Alpine)"
+      "name": "サバイバル (山岳)",
+      "specialization": "サバイバル",
+      "skillName": "山岳"
     },
     "Survival (Any)": {
-      "name": "サバイバル (Any)"
+      "name": "サバイバル (任意)",
+      "specialization": "サバイバル",
+      "skillName": "任意"
     },
     "Survival (Arctic)": {
-      "name": "サバイバル (Arctic)"
+      "name": "サバイバル (極地)",
+      "specialization": "サバイバル",
+      "skillName": "極地"
     },
     "Survival (Desert)": {
-      "name": "サバイバル (Desert)"
+      "name": "サバイバル (砂漠)",
+      "specialization": "サバイバル",
+      "skillName": "砂漠"
     },
     "Survival (Sea)": {
-      "name": "サバイバル (Sea)"
+      "name": "サバイバル (海)",
+      "specialization": "サバイバル",
+      "skillName": "海"
     },
     "Survival (Woodland)": {
-      "name": "サバイバル (Woodland)"
+      "name": "サバイバル (Woodland)",
+      "specialization": "サバイバル",
+      "skillName": "Woodland"
     },
     "Swim": {
       "name": "水泳",
