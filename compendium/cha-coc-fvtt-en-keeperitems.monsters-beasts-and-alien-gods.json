@@ -6,6 +6,16 @@
     "Mythos Monsters": "クトゥルフ神話の怪物",
     "Traditional Horrors": "伝統的な怪物"
   },
+  "mapping": {
+    "creatureType": {
+      "converter": "creatureType",
+      "path": "system.infos.type"
+    },
+    "cocidFlagLang": {
+      "converter": "cocidFlagLang",
+      "path": "flags.CoC7.cocidFlag.lang"
+    }
+  },
   "entries": {
     "Abhoth": {
       "name": "アブホース",

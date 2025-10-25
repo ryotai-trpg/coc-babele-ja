@@ -1,5 +1,5 @@
 {
-  "label": "装甲と武器 | JA, EN",
+  "label": "装甲と武器 | JA",
   "folders": {
     "Alien, Artifacts": "異界のアーティファクト",
     "Armor": "装甲",
@@ -11,6 +11,12 @@
     "Rifles": "ライフル",
     "Shotguns": "ショットガン",
     "Submachine Guns": "サブマシンガン"
+  },
+  "mapping": {
+    "cocidFlagLang": {
+      "converter": "cocidFlagLang",
+      "path": "flags.CoC7.cocidFlag.lang"
+    }
   },
   "entries": {
     ".22 Bolt-Action Rifle": {

@@ -8,6 +8,16 @@
     "Gate": "門",
     "Summoning": "召喚"
   },
+  "mapping": {
+    "source": {
+      "converter": "source",
+      "path": "system.source"
+    },
+    "castingTime": {
+      "converter": "time",
+      "path": "system.castingTime"
+    }
+  },
   "entries": {
     "Apportion Ka": {
       "name": "カーの分配"

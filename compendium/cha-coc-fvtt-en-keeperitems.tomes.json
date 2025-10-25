@@ -1,6 +1,15 @@
 {
   "label": "魔道書 | JA, EN",
-  "folders": {},
+  "mapping": {
+    "language": {
+      "converter": "language",
+      "path": "system.language"
+    },
+    "author": {
+      "converter": "author",
+      "path": "system.author"
+    }
+  },
   "entries": {
     "Al Azif": {
       "name": "アル・アジフ"
